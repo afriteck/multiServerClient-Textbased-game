@@ -1,0 +1,1056 @@
+2016-Jan-25 01:55:08 INFO  clientLogger:23 - Attempting to connect to 127.0.0.1:3001
+@2016-Jan-25 01:55:08 INFO  clientLogger:26 - Connection Established between client and server...
+@2016-Jan-25 01:55:08 INFO  clientLogger:40 - Response from server:Hello and welcome!
+@2016-Jan-25 10:09:33 INFO  clientLogger:54 - joe: Establishing connection. Please wait ...
+@2016-Jan-25 10:09:33 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-25 10:09:33 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-25 10:09:33 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-25 10:09:33 INFO  clientLogger:68 - joe: Connected to server: localhost/127.0.0.1
+@2016-Jan-25 10:09:33 INFO  clientLogger:70 - joe: Connected to portid: 49220
+@2016-Jan-25 10:09:33 INFO  clientLogger:122 - 
+49220: Client Started...
+
+@2016-Jan-25 10:09:33 INFO  clientLogger:74 - Client sent to server: join joe 127.0.0.1
+@2016-Jan-25 10:09:33 INFO  clientLogger:269 - Player 49220 broadcasted: join joe 127.0.0.1
+@2016-Jan-25 10:09:33 INFO  clientLogger:269 - Server sent: startGame 2 Players 7 rounds
+@2016-Jan-25 10:09:33 INFO  clientLogger:141 - Message from the server: WAITING FOR MORE PLAYERS
+@2016-Jan-25 10:09:42 INFO  clientLogger:54 - fred: Establishing connection. Please wait ...
+@2016-Jan-25 10:09:42 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-25 10:09:42 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-25 10:09:42 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-25 10:09:42 INFO  clientLogger:68 - fred: Connected to server: localhost/127.0.0.1
+@2016-Jan-25 10:09:42 INFO  clientLogger:70 - fred: Connected to portid: 49221
+@2016-Jan-25 10:09:42 INFO  clientLogger:122 - 
+49221: Client Started...
+
+@2016-Jan-25 10:09:42 INFO  clientLogger:74 - Client sent to server: join fred 127.0.0.1
+@2016-Jan-25 10:09:42 INFO  clientLogger:269 - Player 49221 broadcasted: join fred 127.0.0.1
+@2016-Jan-25 10:09:42 INFO  clientLogger:214 - Message from server: List of players In the Game you can attack: [ joe fred  ]
+@2016-Jan-25 10:09:42 INFO  clientLogger:269 - Player 49221 broadcasted: join fred 127.0.0.1
+@2016-Jan-25 10:09:42 INFO  clientLogger:133 - Message from the server: GAME READY
+@2016-Jan-25 10:09:42 INFO  clientLogger:269 - Server sent: startGame 2 Players 7 rounds
+@2016-Jan-25 10:09:42 INFO  clientLogger:214 - Message from server: List of players In the Game you can attack: [ joe fred  ]
+@2016-Jan-25 10:09:42 INFO  clientLogger:133 - Message from the server: GAME READY
+@2016-Jan-25 10:10:16 INFO  clientLogger:137 - client sends this info to the server: select fred joe thrust 1 duck 3
+@2016-Jan-25 10:10:16 INFO  clientLogger:269 - Player 49221 broadcasted: select fred joe thrust 1 duck 3
+@2016-Jan-25 10:10:16 INFO  clientLogger:149 - Message from the server: WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:10:16 INFO  clientLogger:269 - 
+@2016-Jan-25 10:10:32 INFO  clientLogger:137 - client sends this info to the server: select joe fred thrust 1 dodge 3
+@2016-Jan-25 10:10:32 INFO  clientLogger:269 - Player 49221 broadcasted: select fred joe thrust 1 duck 3
+@2016-Jan-25 10:10:32 INFO  clientLogger:269 - 
+@2016-Jan-25 10:10:32 INFO  clientLogger:269 - Player 49220 broadcasted: select joe fred thrust 1 dodge 3
+@2016-Jan-25 10:10:32 INFO  clientLogger:269 - Player 49220 broadcasted: select joe fred thrust 1 dodge 3
+@2016-Jan-25 10:10:32 INFO  clientLogger:269 - 
+@2016-Jan-25 10:10:32 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:10:32 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:10:40 INFO  clientLogger:167 - Client sends this message to the server: roll fred 1
+@2016-Jan-25 10:10:40 INFO  clientLogger:269 - Player 49221 broadcasted: roll fred 1
+@2016-Jan-25 10:10:40 INFO  clientLogger:231 - Message from server: Wait to receive rolls and process it from other players
+@2016-Jan-25 10:10:46 INFO  clientLogger:167 - Client sends this message to the server: roll joe 1
+@2016-Jan-25 10:10:46 INFO  clientLogger:269 - Player 49220 broadcasted: roll joe 1
+@2016-Jan-25 10:10:46 INFO  clientLogger:269 - Player 49221 broadcasted: roll fred 1
+@2016-Jan-25 10:10:46 INFO  clientLogger:269 - Player 49220 broadcasted: roll joe 1
+@2016-Jan-25 10:10:46 INFO  clientLogger:220 - Message from server: OUTCOME [fred got 1 hit, joe got 1 hit]
+@2016-Jan-25 10:10:46 INFO  clientLogger:227 - For this round the total casualty was: [fred got 1 hit, joe got 1 hit]
+@2016-Jan-25 10:10:46 INFO  clientLogger:220 - Message from server: OUTCOME [fred got 1 hit, joe got 1 hit]
+@2016-Jan-25 10:10:46 INFO  clientLogger:269 - 
+@2016-Jan-25 10:10:46 INFO  clientLogger:227 - For this round the total casualty was: [fred got 1 hit, joe got 1 hit]
+@2016-Jan-25 10:10:46 INFO  clientLogger:240 - Message from server: There is still more rounds to play 2
+@2016-Jan-25 10:10:46 INFO  clientLogger:269 - 
+@2016-Jan-25 10:10:46 INFO  clientLogger:240 - Message from server: There is still more rounds to play 2
+@2016-Jan-25 10:11:27 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 2
+@2016-Jan-25 10:11:27 INFO  clientLogger:269 - Player 49221 broadcasted: select fred joe thrust 2 duck 2
+@2016-Jan-25 10:11:27 INFO  clientLogger:149 - Message from the server: WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:11:27 INFO  clientLogger:269 - 
+@2016-Jan-25 10:11:49 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 2
+@2016-Jan-25 10:11:49 INFO  clientLogger:269 - Player 49220 broadcasted: select joe fred thrust 3 duck 1
+@2016-Jan-25 10:11:49 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:11:49 INFO  clientLogger:269 - Player 49221 broadcasted: select fred joe thrust 2 duck 2
+@2016-Jan-25 10:11:49 INFO  clientLogger:269 - 
+@2016-Jan-25 10:11:49 INFO  clientLogger:269 - Player 49220 broadcasted: select joe fred thrust 3 duck 1
+@2016-Jan-25 10:11:49 INFO  clientLogger:269 - 
+@2016-Jan-25 10:11:49 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:11:57 INFO  clientLogger:167 - Client sends this message to the server: roll joe 2
+@2016-Jan-25 10:11:57 INFO  clientLogger:269 - Player 49220 broadcasted: roll joe 2
+@2016-Jan-25 10:11:57 INFO  clientLogger:231 - Message from server: Wait to receive rolls and process it from other players
+@2016-Jan-25 10:12:01 INFO  clientLogger:167 - Client sends this message to the server: roll fred 2
+@2016-Jan-25 10:12:01 INFO  clientLogger:269 - Player 49221 broadcasted: roll fred 2
+@2016-Jan-25 10:12:01 INFO  clientLogger:269 - Player 49220 broadcasted: roll joe 2
+@2016-Jan-25 10:12:01 INFO  clientLogger:269 - Player 49221 broadcasted: roll fred 2
+@2016-Jan-25 10:12:01 INFO  clientLogger:220 - Message from server: OUTCOME [fred got 0 hit, joe got 0 hit]
+@2016-Jan-25 10:12:01 INFO  clientLogger:227 - For this round the total casualty was: [fred got 0 hit, joe got 0 hit]
+@2016-Jan-25 10:12:01 INFO  clientLogger:269 - 
+@2016-Jan-25 10:12:01 INFO  clientLogger:240 - Message from server: There is still more rounds to play 3
+@2016-Jan-25 10:12:01 INFO  clientLogger:220 - Message from server: OUTCOME [fred got 0 hit, joe got 0 hit]
+@2016-Jan-25 10:12:01 INFO  clientLogger:227 - For this round the total casualty was: [fred got 0 hit, joe got 0 hit]
+@2016-Jan-25 10:12:01 INFO  clientLogger:269 - 
+@2016-Jan-25 10:12:01 INFO  clientLogger:240 - Message from server: There is still more rounds to play 3
+@2016-Jan-25 10:13:08 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 3
+@2016-Jan-25 10:13:08 INFO  clientLogger:269 - Player 49221 broadcasted: select fred joe thrust 3 charge 1
+@2016-Jan-25 10:13:08 INFO  clientLogger:149 - Message from the server: WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:13:08 INFO  clientLogger:269 - 
+@2016-Jan-25 10:13:28 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 3
+@2016-Jan-25 10:13:28 INFO  clientLogger:269 - Player 49221 broadcasted: select fred joe thrust 3 charge 1
+@2016-Jan-25 10:13:28 INFO  clientLogger:269 - 
+@2016-Jan-25 10:13:28 INFO  clientLogger:269 - Player 49220 broadcasted: select joe fred thrust 3 charge 1
+@2016-Jan-25 10:13:28 INFO  clientLogger:269 - 
+@2016-Jan-25 10:13:28 INFO  clientLogger:269 - Player 49220 broadcasted: select joe fred thrust 3 charge 1
+@2016-Jan-25 10:13:28 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:13:28 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:13:32 INFO  clientLogger:167 - Client sends this message to the server: roll joe 2
+@2016-Jan-25 10:13:32 INFO  clientLogger:269 - Player 49220 broadcasted: roll joe 2
+@2016-Jan-25 10:13:32 INFO  clientLogger:231 - Message from server: Wait to receive rolls and process it from other players
+@2016-Jan-25 10:13:36 INFO  clientLogger:167 - Client sends this message to the server: roll fred 1
+@2016-Jan-25 10:13:36 INFO  clientLogger:269 - Player 49220 broadcasted: roll joe 2
+@2016-Jan-25 10:13:36 INFO  clientLogger:269 - Player 49221 broadcasted: roll fred 1
+@2016-Jan-25 10:13:36 INFO  clientLogger:269 - Player 49221 broadcasted: roll fred 1
+@2016-Jan-25 10:13:36 INFO  clientLogger:220 - Message from server: OUTCOME [fred got 1 hit, joe got 1 hit]
+@2016-Jan-25 10:13:36 INFO  clientLogger:227 - For this round the total casualty was: [fred got 1 hit, joe got 1 hit]
+@2016-Jan-25 10:13:36 INFO  clientLogger:269 - 
+@2016-Jan-25 10:13:36 INFO  clientLogger:240 - Message from server: There is still more rounds to play 4
+@2016-Jan-25 10:13:36 INFO  clientLogger:220 - Message from server: OUTCOME [fred got 1 hit, joe got 1 hit]
+@2016-Jan-25 10:13:36 INFO  clientLogger:227 - For this round the total casualty was: [fred got 1 hit, joe got 1 hit]
+@2016-Jan-25 10:13:36 INFO  clientLogger:269 - 
+@2016-Jan-25 10:13:36 INFO  clientLogger:240 - Message from server: There is still more rounds to play 4
+@2016-Jan-25 10:14:32 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 4
+@2016-Jan-25 10:14:32 INFO  clientLogger:269 - Player 49221 broadcasted: select fred joe thrust 3 duck 1
+@2016-Jan-25 10:14:32 INFO  clientLogger:149 - Message from the server: WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:14:32 INFO  clientLogger:269 - 
+@2016-Jan-25 10:14:50 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 4
+@2016-Jan-25 10:14:50 INFO  clientLogger:269 - Player 49221 broadcasted: select fred joe thrust 3 duck 1
+@2016-Jan-25 10:14:50 INFO  clientLogger:269 - 
+@2016-Jan-25 10:14:50 INFO  clientLogger:269 - Player 49220 broadcasted: select joe fred thrust 3 charge 1
+@2016-Jan-25 10:14:50 INFO  clientLogger:269 - 
+@2016-Jan-25 10:14:50 INFO  clientLogger:269 - Player 49220 broadcasted: select joe fred thrust 3 charge 1
+@2016-Jan-25 10:14:50 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:14:50 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:14:56 INFO  clientLogger:167 - Client sends this message to the server: roll joe 3
+@2016-Jan-25 10:14:56 INFO  clientLogger:269 - Player 49220 broadcasted: roll joe 3
+@2016-Jan-25 10:14:56 INFO  clientLogger:231 - Message from server: Wait to receive rolls and process it from other players
+@2016-Jan-25 10:15:00 INFO  clientLogger:167 - Client sends this message to the server: roll fred 6
+@2016-Jan-25 10:15:00 INFO  clientLogger:269 - Player 49220 broadcasted: roll joe 3
+@2016-Jan-25 10:15:00 INFO  clientLogger:269 - Player 49221 broadcasted: roll fred 6
+@2016-Jan-25 10:15:00 INFO  clientLogger:269 - Player 49221 broadcasted: roll fred 6
+@2016-Jan-25 10:15:00 INFO  clientLogger:220 - Message from server: OUTCOME [fred got 1 hit, joe got 0 hit]
+@2016-Jan-25 10:15:00 INFO  clientLogger:220 - Message from server: OUTCOME [fred got 1 hit, joe got 0 hit]
+@2016-Jan-25 10:15:00 INFO  clientLogger:227 - For this round the total casualty was: [fred got 1 hit, joe got 0 hit]
+@2016-Jan-25 10:15:00 INFO  clientLogger:269 - 
+@2016-Jan-25 10:15:00 INFO  clientLogger:227 - For this round the total casualty was: [fred got 1 hit, joe got 0 hit]
+@2016-Jan-25 10:15:00 INFO  clientLogger:240 - Message from server: There is still more rounds to play 5
+@2016-Jan-25 10:15:00 INFO  clientLogger:269 - 
+@2016-Jan-25 10:15:00 INFO  clientLogger:240 - Message from server: There is still more rounds to play 5
+@2016-Jan-25 10:18:45 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 5
+@2016-Jan-25 10:18:45 INFO  clientLogger:269 - Player 49221 broadcasted: select fred joe swing 3 duck 1
+@2016-Jan-25 10:18:45 INFO  clientLogger:149 - Message from the server: WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:18:45 INFO  clientLogger:269 - 
+@2016-Jan-25 10:19:00 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 5
+@2016-Jan-25 10:19:00 INFO  clientLogger:269 - Player 49221 broadcasted: select fred joe swing 3 duck 1
+@2016-Jan-25 10:19:00 INFO  clientLogger:269 - 
+@2016-Jan-25 10:19:00 INFO  clientLogger:269 - Player 49220 broadcasted: select joe fred smash 3 dodge 1
+@2016-Jan-25 10:19:00 INFO  clientLogger:269 - 
+@2016-Jan-25 10:19:00 INFO  clientLogger:269 - Player 49220 broadcasted: select joe fred smash 3 dodge 1
+@2016-Jan-25 10:19:00 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:19:00 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:19:05 INFO  clientLogger:167 - Client sends this message to the server: roll fred 1
+@2016-Jan-25 10:19:05 INFO  clientLogger:269 - Player 49221 broadcasted: roll fred 1
+@2016-Jan-25 10:19:05 INFO  clientLogger:231 - Message from server: Wait to receive rolls and process it from other players
+@2016-Jan-25 10:19:09 INFO  clientLogger:167 - Client sends this message to the server: roll joe 1
+@2016-Jan-25 10:19:09 INFO  clientLogger:269 - Player 49221 broadcasted: roll fred 1
+@2016-Jan-25 10:19:09 INFO  clientLogger:269 - Player 49220 broadcasted: roll joe 1
+@2016-Jan-25 10:19:09 INFO  clientLogger:269 - Player 49220 broadcasted: roll joe 1
+@2016-Jan-25 10:19:09 INFO  clientLogger:220 - Message from server: OUTCOME [fred got 1 hit, joe got 1 hit]
+@2016-Jan-25 10:19:09 INFO  clientLogger:227 - For this round the total casualty was: [fred got 1 hit, joe got 1 hit]
+@2016-Jan-25 10:19:09 INFO  clientLogger:269 - 
+@2016-Jan-25 10:19:09 INFO  clientLogger:240 - Message from server: There is still more rounds to play 6
+@2016-Jan-25 10:19:09 INFO  clientLogger:220 - Message from server: OUTCOME [fred got 1 hit, joe got 1 hit]
+@2016-Jan-25 10:19:09 INFO  clientLogger:227 - For this round the total casualty was: [fred got 1 hit, joe got 1 hit]
+@2016-Jan-25 10:19:09 INFO  clientLogger:269 - 
+@2016-Jan-25 10:19:09 INFO  clientLogger:240 - Message from server: There is still more rounds to play 6
+@2016-Jan-25 10:20:19 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 6
+@2016-Jan-25 10:20:19 INFO  clientLogger:269 - Player 49221 broadcasted: select fred joe swing 3 charge 1
+@2016-Jan-25 10:20:19 INFO  clientLogger:149 - Message from the server: WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:20:19 INFO  clientLogger:269 - 
+@2016-Jan-25 10:20:40 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 6
+@2016-Jan-25 10:20:40 INFO  clientLogger:269 - Player 49221 broadcasted: select fred joe swing 3 charge 1
+@2016-Jan-25 10:20:40 INFO  clientLogger:269 - 
+@2016-Jan-25 10:20:40 INFO  clientLogger:269 - Player 49220 broadcasted: select joe fred smash 3 charge 1
+@2016-Jan-25 10:20:40 INFO  clientLogger:269 - Player 49220 broadcasted: select joe fred smash 3 charge 1
+@2016-Jan-25 10:20:40 INFO  clientLogger:269 - 
+@2016-Jan-25 10:20:40 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:20:40 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:20:49 INFO  clientLogger:167 - Client sends this message to the server: roll fred 4
+@2016-Jan-25 10:20:49 INFO  clientLogger:269 - Player 49221 broadcasted: roll fred 4
+@2016-Jan-25 10:20:49 INFO  clientLogger:231 - Message from server: Wait to receive rolls and process it from other players
+@2016-Jan-25 10:20:54 INFO  clientLogger:167 - Client sends this message to the server: roll joe 5
+@2016-Jan-25 10:20:54 INFO  clientLogger:269 - Player 49220 broadcasted: roll joe 5
+@2016-Jan-25 10:20:54 INFO  clientLogger:269 - Player 49221 broadcasted: roll fred 4
+@2016-Jan-25 10:20:54 INFO  clientLogger:269 - Player 49220 broadcasted: roll joe 5
+@2016-Jan-25 10:20:54 INFO  clientLogger:220 - Message from server: OUTCOME [fred got 1 hit, joe got 1 hit]
+@2016-Jan-25 10:20:54 INFO  clientLogger:227 - For this round the total casualty was: [fred got 1 hit, joe got 1 hit]
+@2016-Jan-25 10:20:54 INFO  clientLogger:269 - 
+@2016-Jan-25 10:20:54 INFO  clientLogger:220 - Message from server: OUTCOME [fred got 1 hit, joe got 1 hit]
+@2016-Jan-25 10:20:54 INFO  clientLogger:240 - Message from server: There is still more rounds to play 7
+@2016-Jan-25 10:20:54 INFO  clientLogger:227 - For this round the total casualty was: [fred got 1 hit, joe got 1 hit]
+@2016-Jan-25 10:20:54 INFO  clientLogger:269 - 
+@2016-Jan-25 10:20:54 INFO  clientLogger:240 - Message from server: There is still more rounds to play 7
+@2016-Jan-25 10:21:17 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 7
+@2016-Jan-25 10:21:17 INFO  clientLogger:269 - Player 49221 broadcasted: select fred joe thrust 1 dodge 3
+@2016-Jan-25 10:21:17 INFO  clientLogger:149 - Message from the server: WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:21:17 INFO  clientLogger:269 - 
+@2016-Jan-25 10:21:44 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 7
+@2016-Jan-25 10:21:44 INFO  clientLogger:269 - Player 49221 broadcasted: select fred joe thrust 1 dodge 3
+@2016-Jan-25 10:21:44 INFO  clientLogger:269 - 
+@2016-Jan-25 10:21:44 INFO  clientLogger:269 - Player 49220 broadcasted: select joe fred smash 1 charge 3
+@2016-Jan-25 10:21:44 INFO  clientLogger:269 - Player 49220 broadcasted: select joe fred smash 1 charge 3
+@2016-Jan-25 10:21:44 INFO  clientLogger:269 - 
+@2016-Jan-25 10:21:44 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:21:44 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:21:50 INFO  clientLogger:167 - Client sends this message to the server: roll fred 1
+@2016-Jan-25 10:21:50 INFO  clientLogger:269 - Player 49221 broadcasted: roll fred 1
+@2016-Jan-25 10:21:50 INFO  clientLogger:231 - Message from server: Wait to receive rolls and process it from other players
+@2016-Jan-25 10:21:54 INFO  clientLogger:167 - Client sends this message to the server: roll joe 4
+@2016-Jan-25 10:21:54 INFO  clientLogger:269 - Player 49220 broadcasted: roll joe 4
+@2016-Jan-25 10:21:54 INFO  clientLogger:269 - Player 49221 broadcasted: roll fred 1
+@2016-Jan-25 10:21:54 INFO  clientLogger:269 - Player 49220 broadcasted: roll joe 4
+@2016-Jan-25 10:21:54 INFO  clientLogger:220 - Message from server: OUTCOME [joe got 2 hit, fred got 2 hit]
+@2016-Jan-25 10:21:54 INFO  clientLogger:227 - For this round the total casualty was: [joe got 2 hit, fred got 2 hit]
+@2016-Jan-25 10:21:54 INFO  clientLogger:269 - 
+@2016-Jan-25 10:21:54 INFO  clientLogger:257 - Message from server: Rounds is done
+@2016-Jan-25 10:21:54 INFO  clientLogger:264 - Message sent to the server: game done
+@2016-Jan-25 10:21:54 INFO  clientLogger:220 - Message from server: OUTCOME [joe got 2 hit, fred got 2 hit]
+@2016-Jan-25 10:21:54 INFO  clientLogger:227 - For this round the total casualty was: [joe got 2 hit, fred got 2 hit]
+@2016-Jan-25 10:21:54 INFO  clientLogger:269 - 
+@2016-Jan-25 10:21:54 INFO  clientLogger:257 - Message from server: Rounds is done
+@2016-Jan-25 10:21:54 INFO  clientLogger:264 - Message sent to the server: game done
+@2016-Jan-25 10:21:54 INFO  clientLogger:128 - 49220Good bye. Press RETURN to exit ...
+@2016-Jan-25 10:21:54 INFO  clientLogger:128 - 49221Good bye. Press RETURN to exit ...
+@2016-Jan-25 10:22:29 INFO  clientLogger:54 - jack: Establishing connection. Please wait ...
+@2016-Jan-25 10:22:29 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-25 10:22:29 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-25 10:22:29 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-25 10:22:29 INFO  clientLogger:68 - jack: Connected to server: localhost/127.0.0.1
+@2016-Jan-25 10:22:29 INFO  clientLogger:70 - jack: Connected to portid: 49239
+@2016-Jan-25 10:22:29 INFO  clientLogger:122 - 
+49239: Client Started...
+
+@2016-Jan-25 10:22:29 INFO  clientLogger:74 - Client sent to server: join jack 127.0.0.1
+@2016-Jan-25 10:22:29 INFO  clientLogger:269 - Player 49239 broadcasted: join jack 127.0.0.1
+@2016-Jan-25 10:22:29 INFO  clientLogger:269 - Server sent: startGame 3 Players 3 rounds
+@2016-Jan-25 10:22:29 INFO  clientLogger:141 - Message from the server: WAITING FOR MORE PLAYERS
+@2016-Jan-25 10:22:48 INFO  clientLogger:54 - joe: Establishing connection. Please wait ...
+@2016-Jan-25 10:22:48 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-25 10:22:48 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-25 10:22:48 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-25 10:22:48 INFO  clientLogger:68 - joe: Connected to server: localhost/127.0.0.1
+@2016-Jan-25 10:22:48 INFO  clientLogger:70 - joe: Connected to portid: 49240
+@2016-Jan-25 10:22:48 INFO  clientLogger:122 - 
+49240: Client Started...
+
+@2016-Jan-25 10:22:48 INFO  clientLogger:74 - Client sent to server: join joe 127.0.0.1
+@2016-Jan-25 10:22:48 INFO  clientLogger:269 - Player 49240 broadcasted: join joe 127.0.0.1
+@2016-Jan-25 10:22:48 INFO  clientLogger:269 - Player 49240 broadcasted: join joe 127.0.0.1
+@2016-Jan-25 10:22:48 INFO  clientLogger:141 - Message from the server: WAITING FOR MORE PLAYERS
+@2016-Jan-25 10:22:48 INFO  clientLogger:269 - Server sent: startGame 3 Players 3 rounds
+@2016-Jan-25 10:22:48 INFO  clientLogger:141 - Message from the server: WAITING FOR MORE PLAYERS
+@2016-Jan-25 10:22:56 INFO  clientLogger:54 - fred: Establishing connection. Please wait ...
+@2016-Jan-25 10:22:56 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-25 10:22:56 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-25 10:22:56 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-25 10:22:56 INFO  clientLogger:68 - fred: Connected to server: localhost/127.0.0.1
+@2016-Jan-25 10:22:56 INFO  clientLogger:70 - fred: Connected to portid: 49245
+@2016-Jan-25 10:22:56 INFO  clientLogger:122 - 
+49245: Client Started...
+
+@2016-Jan-25 10:22:56 INFO  clientLogger:74 - Client sent to server: join fred 127.0.0.1
+@2016-Jan-25 10:22:56 INFO  clientLogger:269 - Player 49245 broadcasted: join fred 127.0.0.1
+@2016-Jan-25 10:22:56 INFO  clientLogger:269 - Player 49245 broadcasted: join fred 127.0.0.1
+@2016-Jan-25 10:22:56 INFO  clientLogger:214 - Message from server: List of players In the Game you can attack: [ jack joe fred  ]
+@2016-Jan-25 10:22:56 INFO  clientLogger:214 - Message from server: List of players In the Game you can attack: [ jack joe fred  ]
+@2016-Jan-25 10:22:56 INFO  clientLogger:133 - Message from the server: GAME READY
+@2016-Jan-25 10:22:56 INFO  clientLogger:133 - Message from the server: GAME READY
+@2016-Jan-25 10:22:56 INFO  clientLogger:269 - Player 49245 broadcasted: join fred 127.0.0.1
+@2016-Jan-25 10:22:56 INFO  clientLogger:269 - Server sent: startGame 3 Players 3 rounds
+@2016-Jan-25 10:22:56 INFO  clientLogger:214 - Message from server: List of players In the Game you can attack: [ jack joe fred  ]
+@2016-Jan-25 10:22:56 INFO  clientLogger:133 - Message from the server: GAME READY
+@2016-Jan-25 10:23:19 INFO  clientLogger:137 - client sends this info to the server: select jack joe swing 1 duck 3
+@2016-Jan-25 10:23:19 INFO  clientLogger:269 - Player 49239 broadcasted: select jack joe swing 1 duck 3
+@2016-Jan-25 10:23:19 INFO  clientLogger:149 - Message from the server: WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:23:19 INFO  clientLogger:269 - 
+@2016-Jan-25 10:23:57 INFO  clientLogger:137 - client sends this info to the server: select fred joe thrust 2 dodge 2
+@2016-Jan-25 10:23:57 INFO  clientLogger:269 - Player 49239 broadcasted: select jack joe swing 1 duck 3
+@2016-Jan-25 10:23:57 INFO  clientLogger:269 - 
+@2016-Jan-25 10:23:57 INFO  clientLogger:269 - Player 49245 broadcasted: select fred joe thrust 2 dodge 2
+@2016-Jan-25 10:23:57 INFO  clientLogger:269 - Player 49245 broadcasted: select fred joe thrust 2 dodge 2
+@2016-Jan-25 10:23:57 INFO  clientLogger:149 - Message from the server: WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:23:57 INFO  clientLogger:269 - 
+@2016-Jan-25 10:23:57 INFO  clientLogger:269 - 
+@2016-Jan-25 10:24:46 INFO  clientLogger:137 - client sends this info to the server: select joe fred smash 2 charge 2
+@2016-Jan-25 10:24:46 INFO  clientLogger:269 - Player 49239 broadcasted: select jack joe swing 1 duck 3
+@2016-Jan-25 10:24:46 INFO  clientLogger:269 - 
+@2016-Jan-25 10:24:46 INFO  clientLogger:269 - Player 49240 broadcasted: select joe fred smash 2 charge 2
+@2016-Jan-25 10:24:46 INFO  clientLogger:269 - Player 49245 broadcasted: select fred joe thrust 2 dodge 2
+@2016-Jan-25 10:24:46 INFO  clientLogger:269 - 
+@2016-Jan-25 10:24:46 INFO  clientLogger:269 - Player 49240 broadcasted: select joe fred smash 2 charge 2
+@2016-Jan-25 10:24:46 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:24:46 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:24:46 INFO  clientLogger:269 - Player 49240 broadcasted: select joe fred smash 2 charge 2
+@2016-Jan-25 10:24:46 INFO  clientLogger:269 - 
+@2016-Jan-25 10:24:46 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:24:56 INFO  clientLogger:167 - Client sends this message to the server: roll fred 1
+@2016-Jan-25 10:24:56 INFO  clientLogger:269 - Player 49245 broadcasted: roll fred 1
+@2016-Jan-25 10:24:56 INFO  clientLogger:231 - Message from server: Wait to receive rolls and process it from other players
+@2016-Jan-25 10:25:11 INFO  clientLogger:167 - Client sends this message to the server: roll jack 4
+@2016-Jan-25 10:25:11 INFO  clientLogger:269 - Player 49245 broadcasted: roll fred 1
+@2016-Jan-25 10:25:11 INFO  clientLogger:269 - Player 49239 broadcasted: roll jack 4
+@2016-Jan-25 10:25:11 INFO  clientLogger:231 - Message from server: Wait to receive rolls and process it from other players
+@2016-Jan-25 10:25:11 INFO  clientLogger:269 - Player 49239 broadcasted: roll jack 4
+@2016-Jan-25 10:25:51 INFO  clientLogger:167 - Client sends this message to the server: roll joe 1
+@2016-Jan-25 10:25:51 INFO  clientLogger:269 - Player 49240 broadcasted: roll joe 1
+@2016-Jan-25 10:25:51 INFO  clientLogger:269 - Player 49240 broadcasted: roll joe 1
+@2016-Jan-25 10:25:51 INFO  clientLogger:269 - Player 49245 broadcasted: roll fred 1
+@2016-Jan-25 10:25:51 INFO  clientLogger:269 - Player 49239 broadcasted: roll jack 4
+@2016-Jan-25 10:25:51 INFO  clientLogger:269 - Player 49240 broadcasted: roll joe 1
+@2016-Jan-25 10:25:51 INFO  clientLogger:220 - Message from server: OUTCOME [fred got 0 hit, joe got 3 hit, jack got 0 hit]
+@2016-Jan-25 10:25:51 INFO  clientLogger:220 - Message from server: OUTCOME [fred got 0 hit, joe got 3 hit, jack got 0 hit]
+@2016-Jan-25 10:25:51 INFO  clientLogger:220 - Message from server: OUTCOME [fred got 0 hit, joe got 3 hit, jack got 0 hit]
+@2016-Jan-25 10:25:51 INFO  clientLogger:227 - For this round the total casualty was: [fred got 0 hit, joe got 3 hit, jack got 0 hit]
+@2016-Jan-25 10:25:51 INFO  clientLogger:227 - For this round the total casualty was: [fred got 0 hit, joe got 3 hit, jack got 0 hit]
+@2016-Jan-25 10:25:51 INFO  clientLogger:269 - 
+@2016-Jan-25 10:25:51 INFO  clientLogger:227 - For this round the total casualty was: [fred got 0 hit, joe got 3 hit, jack got 0 hit]
+@2016-Jan-25 10:25:51 INFO  clientLogger:269 - 
+@2016-Jan-25 10:25:51 INFO  clientLogger:240 - Message from server: There is still more rounds to play 2
+@2016-Jan-25 10:25:51 INFO  clientLogger:269 - 
+@2016-Jan-25 10:25:51 INFO  clientLogger:240 - Message from server: There is still more rounds to play 2
+@2016-Jan-25 10:25:51 INFO  clientLogger:240 - Message from server: There is still more rounds to play 2
+@2016-Jan-25 10:26:36 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 2
+@2016-Jan-25 10:26:36 INFO  clientLogger:269 - Player 49240 broadcasted: select joe jack smash 3 duck 1
+@2016-Jan-25 10:26:36 INFO  clientLogger:149 - Message from the server: WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:26:36 INFO  clientLogger:269 - 
+@2016-Jan-25 10:27:10 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 2
+@2016-Jan-25 10:27:10 INFO  clientLogger:269 - Player 49240 broadcasted: select joe jack smash 3 duck 1
+@2016-Jan-25 10:27:10 INFO  clientLogger:269 - 
+@2016-Jan-25 10:27:10 INFO  clientLogger:269 - Player 49239 broadcasted: select jack fred thrust 3 charge 1
+@2016-Jan-25 10:27:10 INFO  clientLogger:269 - Player 49239 broadcasted: select jack fred thrust 3 charge 1
+@2016-Jan-25 10:27:10 INFO  clientLogger:149 - Message from the server: WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:27:10 INFO  clientLogger:269 - 
+@2016-Jan-25 10:27:10 INFO  clientLogger:269 - 
+@2016-Jan-25 10:27:34 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 2
+@2016-Jan-25 10:27:34 INFO  clientLogger:269 - Player 49245 broadcasted: select fred joe swing 3 dodge 1
+@2016-Jan-25 10:27:34 INFO  clientLogger:269 - Player 49240 broadcasted: select joe jack smash 3 duck 1
+@2016-Jan-25 10:27:34 INFO  clientLogger:269 - 
+@2016-Jan-25 10:27:34 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:27:34 INFO  clientLogger:269 - Player 49239 broadcasted: select jack fred thrust 3 charge 1
+@2016-Jan-25 10:27:34 INFO  clientLogger:269 - 
+@2016-Jan-25 10:27:34 INFO  clientLogger:269 - Player 49245 broadcasted: select fred joe swing 3 dodge 1
+@2016-Jan-25 10:27:34 INFO  clientLogger:269 - Player 49245 broadcasted: select fred joe swing 3 dodge 1
+@2016-Jan-25 10:27:34 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:27:34 INFO  clientLogger:269 - 
+@2016-Jan-25 10:27:34 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:27:48 INFO  clientLogger:167 - Client sends this message to the server: roll fred 1
+@2016-Jan-25 10:27:48 INFO  clientLogger:269 - Player 49245 broadcasted: roll fred 1
+@2016-Jan-25 10:27:48 INFO  clientLogger:231 - Message from server: Wait to receive rolls and process it from other players
+@2016-Jan-25 10:27:57 INFO  clientLogger:167 - Client sends this message to the server: roll joe 1
+@2016-Jan-25 10:27:57 INFO  clientLogger:269 - Player 49245 broadcasted: roll fred 1
+@2016-Jan-25 10:27:57 INFO  clientLogger:269 - Player 49240 broadcasted: roll joe 1
+@2016-Jan-25 10:27:57 INFO  clientLogger:269 - Player 49240 broadcasted: roll joe 1
+@2016-Jan-25 10:27:57 INFO  clientLogger:231 - Message from server: Wait to receive rolls and process it from other players
+@2016-Jan-25 10:28:04 INFO  clientLogger:167 - Client sends this message to the server: roll jack 1
+@2016-Jan-25 10:28:04 INFO  clientLogger:269 - Player 49245 broadcasted: roll fred 1
+@2016-Jan-25 10:28:04 INFO  clientLogger:269 - Player 49239 broadcasted: roll jack 1
+@2016-Jan-25 10:28:04 INFO  clientLogger:269 - Player 49240 broadcasted: roll joe 1
+@2016-Jan-25 10:28:04 INFO  clientLogger:269 - Player 49239 broadcasted: roll jack 1
+@2016-Jan-25 10:28:04 INFO  clientLogger:220 - Message from server: OUTCOME [fred got 0 hit, jack got 0 hit, joe got 0 hit]
+@2016-Jan-25 10:28:04 INFO  clientLogger:227 - For this round the total casualty was: [fred got 0 hit, jack got 0 hit, joe got 0 hit]
+@2016-Jan-25 10:28:04 INFO  clientLogger:269 - 
+@2016-Jan-25 10:28:04 INFO  clientLogger:240 - Message from server: There is still more rounds to play 3
+@2016-Jan-25 10:28:04 INFO  clientLogger:269 - Player 49239 broadcasted: roll jack 1
+@2016-Jan-25 10:28:04 INFO  clientLogger:220 - Message from server: OUTCOME [fred got 0 hit, jack got 0 hit, joe got 0 hit]
+@2016-Jan-25 10:28:04 INFO  clientLogger:227 - For this round the total casualty was: [fred got 0 hit, jack got 0 hit, joe got 0 hit]
+@2016-Jan-25 10:28:04 INFO  clientLogger:269 - 
+@2016-Jan-25 10:28:04 INFO  clientLogger:240 - Message from server: There is still more rounds to play 3
+@2016-Jan-25 10:28:04 INFO  clientLogger:220 - Message from server: OUTCOME [fred got 0 hit, jack got 0 hit, joe got 0 hit]
+@2016-Jan-25 10:28:04 INFO  clientLogger:227 - For this round the total casualty was: [fred got 0 hit, jack got 0 hit, joe got 0 hit]
+@2016-Jan-25 10:28:04 INFO  clientLogger:269 - 
+@2016-Jan-25 10:28:04 INFO  clientLogger:240 - Message from server: There is still more rounds to play 3
+@2016-Jan-25 10:28:58 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 3
+@2016-Jan-25 10:28:58 INFO  clientLogger:269 - Player 49245 broadcasted: select fred joe thrust 1 dodge 3
+@2016-Jan-25 10:28:58 INFO  clientLogger:149 - Message from the server: WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:28:58 INFO  clientLogger:269 - 
+@2016-Jan-25 10:29:24 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 3
+@2016-Jan-25 10:29:24 INFO  clientLogger:269 - Player 49245 broadcasted: select fred joe thrust 1 dodge 3
+@2016-Jan-25 10:29:24 INFO  clientLogger:269 - 
+@2016-Jan-25 10:29:24 INFO  clientLogger:269 - Player 49240 broadcasted: select joe jack swing 2 duck 2
+@2016-Jan-25 10:29:24 INFO  clientLogger:149 - Message from the server: WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:29:24 INFO  clientLogger:269 - Player 49240 broadcasted: select joe jack swing 2 duck 2
+@2016-Jan-25 10:29:24 INFO  clientLogger:269 - 
+@2016-Jan-25 10:29:24 INFO  clientLogger:269 - 
+@2016-Jan-25 10:29:45 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 3
+@2016-Jan-25 10:29:45 INFO  clientLogger:269 - Player 49245 broadcasted: select fred joe thrust 1 dodge 3
+@2016-Jan-25 10:29:45 INFO  clientLogger:269 - 
+@2016-Jan-25 10:29:45 INFO  clientLogger:269 - Player 49240 broadcasted: select joe jack swing 2 duck 2
+@2016-Jan-25 10:29:45 INFO  clientLogger:269 - Player 49239 broadcasted: select jack joe smash 3 charge 1
+@2016-Jan-25 10:29:45 INFO  clientLogger:269 - 
+@2016-Jan-25 10:29:45 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:29:45 INFO  clientLogger:269 - Player 49239 broadcasted: select jack joe smash 3 charge 1
+@2016-Jan-25 10:29:45 INFO  clientLogger:269 - 
+@2016-Jan-25 10:29:45 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:29:45 INFO  clientLogger:269 - Player 49239 broadcasted: select jack joe smash 3 charge 1
+@2016-Jan-25 10:29:45 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:30:00 INFO  clientLogger:167 - Client sends this message to the server: roll fred 6
+@2016-Jan-25 10:30:00 INFO  clientLogger:269 - Player 49245 broadcasted: roll fred 6
+@2016-Jan-25 10:30:00 INFO  clientLogger:231 - Message from server: Wait to receive rolls and process it from other players
+@2016-Jan-25 10:30:13 INFO  clientLogger:167 - Client sends this message to the server: roll joe 4
+@2016-Jan-25 10:30:13 INFO  clientLogger:269 - Player 49245 broadcasted: roll fred 6
+@2016-Jan-25 10:30:13 INFO  clientLogger:269 - Player 49240 broadcasted: roll joe 4
+@2016-Jan-25 10:30:13 INFO  clientLogger:269 - Player 49240 broadcasted: roll joe 4
+@2016-Jan-25 10:30:13 INFO  clientLogger:231 - Message from server: Wait to receive rolls and process it from other players
+@2016-Jan-25 10:30:28 INFO  clientLogger:167 - Client sends this message to the server: roll jack 3
+@2016-Jan-25 10:30:28 INFO  clientLogger:269 - Player 49245 broadcasted: roll fred 6
+@2016-Jan-25 10:30:28 INFO  clientLogger:269 - Player 49240 broadcasted: roll joe 4
+@2016-Jan-25 10:30:28 INFO  clientLogger:269 - Player 49239 broadcasted: roll jack 3
+@2016-Jan-25 10:30:28 INFO  clientLogger:220 - Message from server: OUTCOME [jack got 1 hit, fred got 0 hit, joe got 1 hit]
+@2016-Jan-25 10:30:28 INFO  clientLogger:227 - For this round the total casualty was: [jack got 1 hit, fred got 0 hit, joe got 1 hit]
+@2016-Jan-25 10:30:28 INFO  clientLogger:269 - 
+@2016-Jan-25 10:30:28 INFO  clientLogger:257 - Message from server: Rounds is done
+@2016-Jan-25 10:30:28 INFO  clientLogger:269 - Player 49239 broadcasted: roll jack 3
+@2016-Jan-25 10:30:28 INFO  clientLogger:269 - Player 49239 broadcasted: roll jack 3
+@2016-Jan-25 10:30:28 INFO  clientLogger:264 - Message sent to the server: game done
+@2016-Jan-25 10:30:28 INFO  clientLogger:220 - Message from server: OUTCOME [jack got 1 hit, fred got 0 hit, joe got 1 hit]
+@2016-Jan-25 10:30:28 INFO  clientLogger:220 - Message from server: OUTCOME [jack got 1 hit, fred got 0 hit, joe got 1 hit]
+@2016-Jan-25 10:30:28 INFO  clientLogger:227 - For this round the total casualty was: [jack got 1 hit, fred got 0 hit, joe got 1 hit]
+@2016-Jan-25 10:30:28 INFO  clientLogger:227 - For this round the total casualty was: [jack got 1 hit, fred got 0 hit, joe got 1 hit]
+@2016-Jan-25 10:30:28 INFO  clientLogger:269 - 
+@2016-Jan-25 10:30:28 INFO  clientLogger:269 - 
+@2016-Jan-25 10:30:28 INFO  clientLogger:257 - Message from server: Rounds is done
+@2016-Jan-25 10:30:28 INFO  clientLogger:257 - Message from server: Rounds is done
+@2016-Jan-25 10:30:28 INFO  clientLogger:264 - Message sent to the server: game done
+@2016-Jan-25 10:30:28 INFO  clientLogger:264 - Message sent to the server: game done
+@2016-Jan-25 10:30:28 INFO  clientLogger:128 - 49240Good bye. Press RETURN to exit ...
+@2016-Jan-25 10:30:28 INFO  clientLogger:128 - 49239Good bye. Press RETURN to exit ...
+@2016-Jan-25 10:30:28 INFO  clientLogger:128 - 49245Good bye. Press RETURN to exit ...
+@2016-Jan-25 10:32:25 INFO  clientLogger:54 - jack: Establishing connection. Please wait ...
+@2016-Jan-25 10:32:25 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-25 10:32:25 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-25 10:32:25 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-25 10:32:25 INFO  clientLogger:68 - jack: Connected to server: localhost/127.0.0.1
+@2016-Jan-25 10:32:25 INFO  clientLogger:70 - jack: Connected to portid: 49288
+@2016-Jan-25 10:32:25 INFO  clientLogger:122 - 
+49288: Client Started...
+
+@2016-Jan-25 10:32:25 INFO  clientLogger:74 - Client sent to server: join jack 127.0.0.1
+@2016-Jan-25 10:32:25 INFO  clientLogger:269 - Player 49288 broadcasted: join jack 127.0.0.1
+@2016-Jan-25 10:32:25 INFO  clientLogger:269 - Server sent: startGame 4 Players 1 rounds
+@2016-Jan-25 10:32:25 INFO  clientLogger:141 - Message from the server: WAITING FOR MORE PLAYERS
+@2016-Jan-25 10:32:39 INFO  clientLogger:54 - joe: Establishing connection. Please wait ...
+@2016-Jan-25 10:32:39 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-25 10:32:39 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-25 10:32:39 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-25 10:32:39 INFO  clientLogger:68 - joe: Connected to server: localhost/127.0.0.1
+@2016-Jan-25 10:32:39 INFO  clientLogger:70 - joe: Connected to portid: 49289
+@2016-Jan-25 10:32:39 INFO  clientLogger:122 - 
+49289: Client Started...
+
+@2016-Jan-25 10:32:39 INFO  clientLogger:74 - Client sent to server: join joe 127.0.0.1
+@2016-Jan-25 10:32:39 INFO  clientLogger:269 - Player 49289 broadcasted: join joe 127.0.0.1
+@2016-Jan-25 10:32:39 INFO  clientLogger:141 - Message from the server: WAITING FOR MORE PLAYERS
+@2016-Jan-25 10:32:39 INFO  clientLogger:269 - Player 49289 broadcasted: join joe 127.0.0.1
+@2016-Jan-25 10:32:39 INFO  clientLogger:269 - Server sent: startGame 4 Players 1 rounds
+@2016-Jan-25 10:32:39 INFO  clientLogger:141 - Message from the server: WAITING FOR MORE PLAYERS
+@2016-Jan-25 10:32:49 INFO  clientLogger:54 - fred: Establishing connection. Please wait ...
+@2016-Jan-25 10:32:49 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-25 10:32:49 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-25 10:32:49 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-25 10:32:49 INFO  clientLogger:68 - fred: Connected to server: localhost/127.0.0.1
+@2016-Jan-25 10:32:49 INFO  clientLogger:70 - fred: Connected to portid: 49290
+@2016-Jan-25 10:32:49 INFO  clientLogger:122 - 
+49290: Client Started...
+
+@2016-Jan-25 10:32:49 INFO  clientLogger:74 - Client sent to server: join fred 127.0.0.1
+@2016-Jan-25 10:32:49 INFO  clientLogger:269 - Player 49290 broadcasted: join fred 127.0.0.1
+@2016-Jan-25 10:32:49 INFO  clientLogger:269 - Player 49290 broadcasted: join fred 127.0.0.1
+@2016-Jan-25 10:32:49 INFO  clientLogger:141 - Message from the server: WAITING FOR MORE PLAYERS
+@2016-Jan-25 10:32:49 INFO  clientLogger:141 - Message from the server: WAITING FOR MORE PLAYERS
+@2016-Jan-25 10:32:49 INFO  clientLogger:269 - Player 49290 broadcasted: join fred 127.0.0.1
+@2016-Jan-25 10:32:49 INFO  clientLogger:269 - Server sent: startGame 4 Players 1 rounds
+@2016-Jan-25 10:32:49 INFO  clientLogger:141 - Message from the server: WAITING FOR MORE PLAYERS
+@2016-Jan-25 10:32:57 INFO  clientLogger:54 - jill: Establishing connection. Please wait ...
+@2016-Jan-25 10:32:57 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-25 10:32:57 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-25 10:32:57 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-25 10:32:57 INFO  clientLogger:68 - jill: Connected to server: localhost/127.0.0.1
+@2016-Jan-25 10:32:57 INFO  clientLogger:70 - jill: Connected to portid: 49291
+@2016-Jan-25 10:32:57 INFO  clientLogger:122 - 
+49291: Client Started...
+
+@2016-Jan-25 10:32:57 INFO  clientLogger:74 - Client sent to server: join jill 127.0.0.1
+@2016-Jan-25 10:32:57 INFO  clientLogger:269 - Player 49291 broadcasted: join jill 127.0.0.1
+@2016-Jan-25 10:32:57 INFO  clientLogger:214 - Message from server: List of players In the Game you can attack: [ jack joe fred jill  ]
+@2016-Jan-25 10:32:57 INFO  clientLogger:133 - Message from the server: GAME READY
+@2016-Jan-25 10:32:57 INFO  clientLogger:269 - Player 49291 broadcasted: join jill 127.0.0.1
+@2016-Jan-25 10:32:57 INFO  clientLogger:214 - Message from server: List of players In the Game you can attack: [ jack joe fred jill  ]
+@2016-Jan-25 10:32:57 INFO  clientLogger:269 - Player 49291 broadcasted: join jill 127.0.0.1
+@2016-Jan-25 10:32:57 INFO  clientLogger:133 - Message from the server: GAME READY
+@2016-Jan-25 10:32:57 INFO  clientLogger:214 - Message from server: List of players In the Game you can attack: [ jack joe fred jill  ]
+@2016-Jan-25 10:32:57 INFO  clientLogger:133 - Message from the server: GAME READY
+@2016-Jan-25 10:32:57 INFO  clientLogger:269 - Player 49291 broadcasted: join jill 127.0.0.1
+@2016-Jan-25 10:32:57 INFO  clientLogger:269 - Server sent: startGame 4 Players 1 rounds
+@2016-Jan-25 10:32:57 INFO  clientLogger:214 - Message from server: List of players In the Game you can attack: [ jack joe fred jill  ]
+@2016-Jan-25 10:32:57 INFO  clientLogger:133 - Message from the server: GAME READY
+@2016-Jan-25 10:33:16 INFO  clientLogger:137 - client sends this info to the server: select jack joe swing 1 duck 3
+@2016-Jan-25 10:33:16 INFO  clientLogger:269 - Player 49288 broadcasted: select jack joe swing 1 duck 3
+@2016-Jan-25 10:33:16 INFO  clientLogger:149 - Message from the server: WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:33:16 INFO  clientLogger:269 - 
+@2016-Jan-25 10:33:50 INFO  clientLogger:137 - client sends this info to the server: select fred joe thrust 2 dodge 2
+@2016-Jan-25 10:33:50 INFO  clientLogger:269 - Player 49290 broadcasted: select fred joe thrust 2 dodge 2
+@2016-Jan-25 10:33:50 INFO  clientLogger:269 - Player 49288 broadcasted: select jack joe swing 1 duck 3
+@2016-Jan-25 10:33:50 INFO  clientLogger:269 - 
+@2016-Jan-25 10:33:50 INFO  clientLogger:269 - Player 49290 broadcasted: select fred joe thrust 2 dodge 2
+@2016-Jan-25 10:33:50 INFO  clientLogger:149 - Message from the server: WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:33:50 INFO  clientLogger:269 - 
+@2016-Jan-25 10:33:50 INFO  clientLogger:269 - 
+@2016-Jan-25 10:34:04 INFO  clientLogger:137 - client sends this info to the server: select jill fred smash 3 charge 1
+@2016-Jan-25 10:34:04 INFO  clientLogger:269 - Player 49288 broadcasted: select jack joe swing 1 duck 3
+@2016-Jan-25 10:34:04 INFO  clientLogger:269 - Player 49291 broadcasted: select jill fred smash 3 charge 1
+@2016-Jan-25 10:34:04 INFO  clientLogger:269 - 
+@2016-Jan-25 10:34:04 INFO  clientLogger:269 - Player 49290 broadcasted: select fred joe thrust 2 dodge 2
+@2016-Jan-25 10:34:04 INFO  clientLogger:269 - 
+@2016-Jan-25 10:34:04 INFO  clientLogger:269 - Player 49291 broadcasted: select jill fred smash 3 charge 1
+@2016-Jan-25 10:34:04 INFO  clientLogger:269 - Player 49291 broadcasted: select jill fred smash 3 charge 1
+@2016-Jan-25 10:34:04 INFO  clientLogger:269 - 
+@2016-Jan-25 10:34:04 INFO  clientLogger:149 - Message from the server: WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:34:04 INFO  clientLogger:269 - 
+@2016-Jan-25 10:34:04 INFO  clientLogger:269 - 
+@2016-Jan-25 10:34:25 INFO  clientLogger:137 - client sends this info to the server: select joe jill smash 1 charge 3
+@2016-Jan-25 10:34:25 INFO  clientLogger:269 - Player 49288 broadcasted: select jack joe swing 1 duck 3
+@2016-Jan-25 10:34:25 INFO  clientLogger:269 - 
+@2016-Jan-25 10:34:25 INFO  clientLogger:269 - Player 49290 broadcasted: select fred joe thrust 2 dodge 2
+@2016-Jan-25 10:34:25 INFO  clientLogger:269 - Player 49289 broadcasted: select joe jill smash 1 charge 3
+@2016-Jan-25 10:34:25 INFO  clientLogger:269 - 
+@2016-Jan-25 10:34:25 INFO  clientLogger:269 - Player 49291 broadcasted: select jill fred smash 3 charge 1
+@2016-Jan-25 10:34:25 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:34:25 INFO  clientLogger:269 - 
+@2016-Jan-25 10:34:25 INFO  clientLogger:269 - Player 49289 broadcasted: select joe jill smash 1 charge 3
+@2016-Jan-25 10:34:25 INFO  clientLogger:269 - 
+@2016-Jan-25 10:34:25 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:34:25 INFO  clientLogger:269 - Player 49289 broadcasted: select joe jill smash 1 charge 3
+@2016-Jan-25 10:34:25 INFO  clientLogger:269 - Player 49289 broadcasted: select joe jill smash 1 charge 3
+@2016-Jan-25 10:34:25 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:34:25 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-25 10:34:39 INFO  clientLogger:167 - Client sends this message to the server: roll fred 1
+@2016-Jan-25 10:34:39 INFO  clientLogger:269 - Player 49290 broadcasted: roll fred 1
+@2016-Jan-25 10:34:39 INFO  clientLogger:231 - Message from server: Wait to receive rolls and process it from other players
+@2016-Jan-25 10:34:56 INFO  clientLogger:167 - Client sends this message to the server: roll jack 4
+@2016-Jan-25 10:34:56 INFO  clientLogger:269 - Player 49288 broadcasted: roll jack 4
+@2016-Jan-25 10:34:56 INFO  clientLogger:269 - Player 49290 broadcasted: roll fred 1
+@2016-Jan-25 10:34:56 INFO  clientLogger:269 - Player 49288 broadcasted: roll jack 4
+@2016-Jan-25 10:34:56 INFO  clientLogger:231 - Message from server: Wait to receive rolls and process it from other players
+@2016-Jan-25 10:35:08 INFO  clientLogger:167 - Client sends this message to the server: roll jill 5
+@2016-Jan-25 10:35:08 INFO  clientLogger:269 - Player 49290 broadcasted: roll fred 1
+@2016-Jan-25 10:35:08 INFO  clientLogger:269 - Player 49291 broadcasted: roll jill 5
+@2016-Jan-25 10:35:08 INFO  clientLogger:269 - Player 49288 broadcasted: roll jack 4
+@2016-Jan-25 10:35:08 INFO  clientLogger:269 - Player 49291 broadcasted: roll jill 5
+@2016-Jan-25 10:35:08 INFO  clientLogger:269 - Player 49291 broadcasted: roll jill 5
+@2016-Jan-25 10:35:08 INFO  clientLogger:231 - Message from server: Wait to receive rolls and process it from other players
+@2016-Jan-25 10:35:20 INFO  clientLogger:167 - Client sends this message to the server: roll joe 6
+@2016-Jan-25 10:35:20 INFO  clientLogger:269 - Player 49290 broadcasted: roll fred 1
+@2016-Jan-25 10:35:20 INFO  clientLogger:269 - Player 49289 broadcasted: roll joe 6
+@2016-Jan-25 10:35:20 INFO  clientLogger:269 - Player 49288 broadcasted: roll jack 4
+@2016-Jan-25 10:35:20 INFO  clientLogger:269 - Player 49291 broadcasted: roll jill 5
+@2016-Jan-25 10:35:20 INFO  clientLogger:269 - Player 49289 broadcasted: roll joe 6
+@2016-Jan-25 10:35:20 INFO  clientLogger:220 - Message from server: OUTCOME [fred got 0 hit, jill got 1 hit, joe got 4 hit, jack got 0 hit]
+@2016-Jan-25 10:35:20 INFO  clientLogger:220 - Message from server: OUTCOME [fred got 0 hit, jill got 1 hit, joe got 4 hit, jack got 0 hit]
+@2016-Jan-25 10:35:20 INFO  clientLogger:227 - For this round the total casualty was: [fred got 0 hit, jill got 1 hit, joe got 4 hit, jack got 0 hit]
+@2016-Jan-25 10:35:20 INFO  clientLogger:269 - 
+@2016-Jan-25 10:35:20 INFO  clientLogger:269 - Player 49289 broadcasted: roll joe 6
+@2016-Jan-25 10:35:20 INFO  clientLogger:220 - Message from server: OUTCOME [fred got 0 hit, jill got 1 hit, joe got 4 hit, jack got 0 hit]
+@2016-Jan-25 10:35:20 INFO  clientLogger:227 - For this round the total casualty was: [fred got 0 hit, jill got 1 hit, joe got 4 hit, jack got 0 hit]
+@2016-Jan-25 10:35:20 INFO  clientLogger:227 - For this round the total casualty was: [fred got 0 hit, jill got 1 hit, joe got 4 hit, jack got 0 hit]
+@2016-Jan-25 10:35:20 INFO  clientLogger:269 - 
+@2016-Jan-25 10:35:20 INFO  clientLogger:269 - 
+@2016-Jan-25 10:35:20 INFO  clientLogger:269 - Player 49289 broadcasted: roll joe 6
+@2016-Jan-25 10:35:20 INFO  clientLogger:220 - Message from server: OUTCOME [fred got 0 hit, jill got 1 hit, joe got 4 hit, jack got 0 hit]
+@2016-Jan-25 10:35:20 INFO  clientLogger:227 - For this round the total casualty was: [fred got 0 hit, jill got 1 hit, joe got 4 hit, jack got 0 hit]
+@2016-Jan-25 10:35:20 INFO  clientLogger:269 - 
+@2016-Jan-25 10:35:20 INFO  clientLogger:257 - Message from server: Rounds is done
+@2016-Jan-25 10:35:20 INFO  clientLogger:264 - Message sent to the server: game done
+@2016-Jan-25 10:35:20 INFO  clientLogger:257 - Message from server: Rounds is done
+@2016-Jan-25 10:35:20 INFO  clientLogger:264 - Message sent to the server: game done
+@2016-Jan-25 10:35:20 INFO  clientLogger:257 - Message from server: Rounds is done
+@2016-Jan-25 10:35:20 INFO  clientLogger:264 - Message sent to the server: game done
+@2016-Jan-25 10:35:20 INFO  clientLogger:257 - Message from server: Rounds is done
+@2016-Jan-25 10:35:20 INFO  clientLogger:264 - Message sent to the server: game done
+@2016-Jan-25 10:35:20 INFO  clientLogger:128 - 49289Good bye. Press RETURN to exit ...
+@2016-Jan-25 10:35:20 INFO  clientLogger:128 - 49291Good bye. Press RETURN to exit ...
+@2016-Jan-25 10:35:20 INFO  clientLogger:128 - 49290Good bye. Press RETURN to exit ...
+@2016-Jan-25 10:35:20 INFO  clientLogger:128 - 49288Good bye. Press RETURN to exit ...
+@2016-Jan-26 16:14:26 INFO  clientLogger:54 - chuboy: Establishing connection. Please wait ...
+@2016-Jan-26 16:14:26 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-26 16:14:26 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-26 16:14:26 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-26 16:14:26 INFO  clientLogger:68 - chuboy: Connected to server: localhost/127.0.0.1
+@2016-Jan-26 16:14:26 INFO  clientLogger:70 - chuboy: Connected to portid: 51765
+@2016-Jan-26 16:14:26 INFO  clientLogger:122 - 
+51765: Client Started...
+
+@2016-Jan-26 16:14:26 INFO  clientLogger:74 - Client sent to server: join chuboy 127.0.0.1
+@2016-Jan-26 16:14:26 INFO  clientLogger:269 - Player 51765 broadcasted: join chuboy 127.0.0.1
+@2016-Jan-26 16:14:26 INFO  clientLogger:269 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-26 16:14:26 INFO  clientLogger:141 - Message from the server: WAITING FOR MORE PLAYERS
+@2016-Jan-26 16:14:49 INFO  clientLogger:54 - jon: Establishing connection. Please wait ...
+@2016-Jan-26 16:14:49 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-26 16:14:49 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-26 16:14:49 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-26 16:14:49 INFO  clientLogger:68 - jon: Connected to server: localhost/127.0.0.1
+@2016-Jan-26 16:14:49 INFO  clientLogger:70 - jon: Connected to portid: 51766
+@2016-Jan-26 16:14:49 INFO  clientLogger:122 - 
+51766: Client Started...
+
+@2016-Jan-26 16:14:49 INFO  clientLogger:74 - Client sent to server: join jon 127.0.0.1
+@2016-Jan-26 16:14:49 INFO  clientLogger:269 - Player 51766 broadcasted: join jon 127.0.0.1
+@2016-Jan-26 16:14:49 INFO  clientLogger:269 - Player 51766 broadcasted: join jon 127.0.0.1
+@2016-Jan-26 16:14:49 INFO  clientLogger:269 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-26 16:14:49 INFO  clientLogger:214 - Message from server: List of players In the Game you can attack: [ chuboy jon  ]
+@2016-Jan-26 16:14:49 INFO  clientLogger:214 - Message from server: List of players In the Game you can attack: [ chuboy jon  ]
+@2016-Jan-26 16:14:49 INFO  clientLogger:133 - Message from the server: GAME READY
+@2016-Jan-26 16:14:49 INFO  clientLogger:133 - Message from the server: GAME READY
+@2016-Jan-26 16:15:09 INFO  clientLogger:137 - client sends this info to the server: select jon ded thurst 2 duck 2
+@2016-Jan-26 16:15:09 INFO  clientLogger:269 - Player 51766 broadcasted: select jon ded thurst 2 duck 2
+@2016-Jan-26 16:15:09 INFO  clientLogger:199 - Message from server: invalid attack name
+@2016-Jan-26 20:44:21 INFO  clientLogger:54 - chuboy: Establishing connection. Please wait ...
+@2016-Jan-26 20:44:21 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-26 20:44:21 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-26 20:44:21 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-26 20:44:21 INFO  clientLogger:68 - chuboy: Connected to server: /127.0.0.1
+@2016-Jan-26 20:44:21 INFO  clientLogger:70 - chuboy: Connected to portid: 52312
+@2016-Jan-26 20:44:21 INFO  clientLogger:74 - Client sent to server: join chuboy 127.0.0.1
+@2016-Jan-26 20:44:21 INFO  clientLogger:122 - 
+52312: Client Started...
+
+@2016-Jan-26 20:45:06 INFO  clientLogger:54 - tope: Establishing connection. Please wait ...
+@2016-Jan-26 20:45:06 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-26 20:45:06 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-26 20:45:06 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-26 20:45:06 INFO  clientLogger:68 - tope: Connected to server: localhost/127.0.0.1
+@2016-Jan-26 20:45:06 INFO  clientLogger:70 - tope: Connected to portid: 52315
+@2016-Jan-26 20:45:06 INFO  clientLogger:74 - Client sent to server: join tope 127.0.0.1
+@2016-Jan-26 20:45:06 INFO  clientLogger:122 - 
+52315: Client Started...
+
+@2016-Jan-26 20:45:06 INFO  clientLogger:269 - Player 52315 broadcasted: join tope 127.0.0.1
+@2016-Jan-26 20:45:06 INFO  clientLogger:269 - Server sent: startGame 4 Players 2 rounds
+@2016-Jan-26 20:45:06 INFO  clientLogger:141 - Message from the server: WAITING FOR MORE PLAYERS
+@2016-Jan-26 20:45:06 INFO  clientLogger:269 - Player 52315 broadcasted: join fred
+@2016-Jan-26 20:45:06 INFO  clientLogger:269 - Server sent: startGame 4 Players 2 rounds
+@2016-Jan-26 20:45:06 INFO  clientLogger:141 - Message from the server: WAITING FOR MORE PLAYERS
+@2016-Jan-26 20:45:06 INFO  clientLogger:269 - Player 52315 broadcasted: join jack
+@2016-Jan-26 20:45:06 INFO  clientLogger:269 - Server sent: startGame 4 Players 2 rounds
+@2016-Jan-26 20:45:50 INFO  clientLogger:54 - chuboy: Establishing connection. Please wait ...
+@2016-Jan-26 20:45:50 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-26 20:45:50 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-26 20:45:50 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-26 20:45:50 INFO  clientLogger:68 - chuboy: Connected to server: localhost/127.0.0.1
+@2016-Jan-26 20:45:50 INFO  clientLogger:70 - chuboy: Connected to portid: 52319
+@2016-Jan-26 20:45:50 INFO  clientLogger:74 - Client sent to server: join chuboy 127.0.0.1
+@2016-Jan-26 20:45:50 INFO  clientLogger:122 - 
+52319: Client Started...
+
+@2016-Jan-26 20:45:50 INFO  clientLogger:269 - Player 52319 broadcasted: join chuboy 127.0.0.1
+@2016-Jan-26 20:45:50 INFO  clientLogger:269 - Server sent: startGame 4 Players 2 rounds
+@2016-Jan-26 20:45:50 INFO  clientLogger:141 - Message from the server: WAITING FOR MORE PLAYERS
+@2016-Jan-26 20:45:50 INFO  clientLogger:269 - Player 52319 broadcasted: join fred
+@2016-Jan-26 20:45:50 INFO  clientLogger:269 - Server sent: startGame 4 Players 2 rounds
+@2016-Jan-26 20:45:50 INFO  clientLogger:141 - Message from the server: WAITING FOR MORE PLAYERS
+@2016-Jan-26 20:45:50 INFO  clientLogger:269 - Player 52319 broadcasted: join jack
+@2016-Jan-26 20:45:50 INFO  clientLogger:269 - Server sent: startGame 4 Players 2 rounds
+@2016-Jan-26 20:45:50 INFO  clientLogger:141 - Message from the server: WAITING FOR MORE PLAYERS
+@2016-Jan-26 20:45:50 INFO  clientLogger:269 - Player 52319 broadcasted: join joe
+@2016-Jan-26 20:45:50 INFO  clientLogger:269 - Server sent: startGame 4 Players 2 rounds
+@2016-Jan-26 20:45:50 INFO  clientLogger:214 - Message from server: List of players In the Game you can attack: [ chuboy fred jack joe  ]
+@2016-Jan-26 20:45:50 INFO  clientLogger:141 - Message from the server: WAITING FOR MORE PLAYERS
+@2016-Jan-26 21:31:27 INFO  clientLogger:54 - chu: Establishing connection. Please wait ...
+@2016-Jan-26 21:31:27 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-26 21:31:27 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-26 21:31:27 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-26 21:31:27 INFO  clientLogger:68 - chu: Connected to server: localhost/127.0.0.1
+@2016-Jan-26 21:31:27 INFO  clientLogger:70 - chu: Connected to portid: 52809
+@2016-Jan-26 21:31:27 INFO  clientLogger:122 - 
+52809: Client Started...
+
+@2016-Jan-26 21:31:28 INFO  clientLogger:74 - Client sent to server: join chu 127.0.0.1
+@2016-Jan-26 21:31:28 INFO  clientLogger:269 - Player 52809 broadcasted: join chu 127.0.0.1
+@2016-Jan-26 21:31:28 INFO  clientLogger:269 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-26 21:31:28 INFO  clientLogger:141 - Message from the server: WAITING FOR MORE PLAYERS
+@2016-Jan-26 21:31:36 INFO  clientLogger:54 - tope: Establishing connection. Please wait ...
+@2016-Jan-26 21:31:36 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-26 21:31:36 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-26 21:31:36 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-26 21:31:36 INFO  clientLogger:68 - tope: Connected to server: localhost/127.0.0.1
+@2016-Jan-26 21:31:36 INFO  clientLogger:70 - tope: Connected to portid: 52810
+@2016-Jan-26 21:31:36 INFO  clientLogger:122 - 
+52810: Client Started...
+
+@2016-Jan-26 21:31:36 INFO  clientLogger:74 - Client sent to server: join tope 127.0.0.1
+@2016-Jan-26 21:31:36 INFO  clientLogger:269 - Player 52810 broadcasted: join tope 127.0.0.1
+@2016-Jan-26 21:31:36 INFO  clientLogger:269 - Player 52810 broadcasted: join tope 127.0.0.1
+@2016-Jan-26 21:31:36 INFO  clientLogger:214 - Message from server: List of players In the Game you can attack: [ chu tope  ]
+@2016-Jan-26 21:31:36 INFO  clientLogger:269 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-26 21:31:36 INFO  clientLogger:214 - Message from server: List of players In the Game you can attack: [ chu tope  ]
+@2016-Jan-26 21:31:36 INFO  clientLogger:133 - Message from the server: GAME READY
+@2016-Jan-26 21:31:36 INFO  clientLogger:133 - Message from the server: GAME READY
+@2016-Jan-26 21:31:44 INFO  clientLogger:137 - client sends this info to the server: select chu tope thrust 2 swing 2
+@2016-Jan-26 21:31:44 INFO  clientLogger:269 - Player 52809 broadcasted: select chu tope thrust 2 swing 2
+@2016-Jan-26 21:31:44 INFO  clientLogger:185 - Message from server: WRONG ATTACK OR DEFENCE OR SPEED DETAILS
+@2016-Jan-26 21:32:22 INFO  clientLogger:195 - Client sends this info back to the server: select chu tope thrust 2 duck 2
+@2016-Jan-26 21:32:22 INFO  clientLogger:269 - Player 52809 broadcasted: select chu tope thrust 2 duck 2
+@2016-Jan-26 21:32:22 INFO  clientLogger:149 - Message from the server: WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-26 21:32:22 INFO  clientLogger:269 - 
+@2016-Jan-26 21:32:32 INFO  clientLogger:137 - client sends this info to the server: select tope chu swing 1 dodge 3
+@2016-Jan-26 21:32:32 INFO  clientLogger:269 - Player 52809 broadcasted: select chu tope thrust 2 swing 2
+@2016-Jan-26 21:32:32 INFO  clientLogger:269 - Player 52810 broadcasted: select tope chu swing 1 dodge 3
+@2016-Jan-26 21:32:32 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-26 21:32:32 INFO  clientLogger:269 - Player 52809 broadcasted: select chu tope thrust 2 duck 2
+@2016-Jan-26 21:32:32 INFO  clientLogger:269 - 
+@2016-Jan-26 21:32:32 INFO  clientLogger:269 - Player 52810 broadcasted: select tope chu swing 1 dodge 3
+@2016-Jan-26 21:32:32 INFO  clientLogger:269 - 
+@2016-Jan-26 21:32:32 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-26 21:32:35 INFO  clientLogger:167 - Client sends this message to the server: roll chu 3
+@2016-Jan-26 21:32:35 INFO  clientLogger:269 - Player 52809 broadcasted: roll chu 3
+@2016-Jan-26 21:32:35 INFO  clientLogger:231 - Message from server: Wait to receive rolls and process it from other players
+@2016-Jan-26 21:32:38 INFO  clientLogger:167 - Client sends this message to the server: roll tope 4
+@2016-Jan-26 21:32:38 INFO  clientLogger:269 - Player 52809 broadcasted: roll chu 3
+@2016-Jan-26 21:32:38 INFO  clientLogger:269 - Player 52810 broadcasted: roll tope 4
+@2016-Jan-26 21:32:38 INFO  clientLogger:269 - Player 52810 broadcasted: roll tope 4
+@2016-Jan-26 21:32:38 INFO  clientLogger:220 - Message from server: OUTCOME [chu got 1 hit, tope got 1 hit]
+@2016-Jan-26 21:32:38 INFO  clientLogger:227 - For this round the total casualty was: [chu got 1 hit, tope got 1 hit]
+@2016-Jan-26 21:32:38 INFO  clientLogger:269 - 
+@2016-Jan-26 21:32:38 INFO  clientLogger:220 - Message from server: OUTCOME [chu got 1 hit, tope got 1 hit]
+@2016-Jan-26 21:32:38 INFO  clientLogger:227 - For this round the total casualty was: [chu got 1 hit, tope got 1 hit]
+@2016-Jan-26 21:32:38 INFO  clientLogger:269 - 
+@2016-Jan-26 21:32:38 INFO  clientLogger:240 - Message from server: There is still more rounds to play 2
+@2016-Jan-26 21:32:38 INFO  clientLogger:240 - Message from server: There is still more rounds to play 2
+@2016-Jan-26 21:34:38 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 2
+@2016-Jan-26 21:34:38 INFO  clientLogger:269 - Player 52809 broadcasted: select chu tope thrust 1 finch 3
+@2016-Jan-26 21:34:38 INFO  clientLogger:269 - 
+@2016-Jan-26 21:35:50 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 2
+@2016-Jan-26 21:35:50 INFO  clientLogger:269 - Player 52809 broadcasted: select chu tope thrust 1 finch 3
+@2016-Jan-26 21:35:50 INFO  clientLogger:269 - 
+@2016-Jan-26 21:35:50 INFO  clientLogger:269 - Player 52810 broadcasted: select tope chu thrust 1 duck 3
+@2016-Jan-26 21:35:50 INFO  clientLogger:149 - Message from the server: WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-26 21:35:50 INFO  clientLogger:269 - Player 52810 broadcasted: select tope chu thrust 1 duck 3
+@2016-Jan-26 21:35:50 INFO  clientLogger:269 - 
+@2016-Jan-26 21:35:50 INFO  clientLogger:269 - 
+@2016-Jan-26 21:37:18 INFO  clientLogger:54 - chu: Establishing connection. Please wait ...
+@2016-Jan-26 21:37:18 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-26 21:37:18 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-26 21:37:18 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-26 21:37:18 INFO  clientLogger:68 - chu: Connected to server: localhost/127.0.0.1
+@2016-Jan-26 21:37:18 INFO  clientLogger:70 - chu: Connected to portid: 52820
+@2016-Jan-26 21:37:18 INFO  clientLogger:122 - 
+52820: Client Started...
+
+@2016-Jan-26 21:37:18 INFO  clientLogger:74 - Client sent to server: join chu 127.0.0.1
+@2016-Jan-26 21:37:18 INFO  clientLogger:269 - Player 52820 broadcasted: join chu 127.0.0.1
+@2016-Jan-26 21:37:18 INFO  clientLogger:269 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-26 21:37:18 INFO  clientLogger:141 - Message from the server: WAITING FOR MORE PLAYERS
+@2016-Jan-26 21:37:27 INFO  clientLogger:54 - rae: Establishing connection. Please wait ...
+@2016-Jan-26 21:37:27 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-26 21:37:27 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-26 21:37:27 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-26 21:37:27 INFO  clientLogger:68 - rae: Connected to server: localhost/127.0.0.1
+@2016-Jan-26 21:37:27 INFO  clientLogger:70 - rae: Connected to portid: 52821
+@2016-Jan-26 21:37:27 INFO  clientLogger:122 - 
+52821: Client Started...
+
+@2016-Jan-26 21:37:27 INFO  clientLogger:74 - Client sent to server: join rae 127.0.0.1
+@2016-Jan-26 21:37:27 INFO  clientLogger:269 - Player 52821 broadcasted: join rae 127.0.0.1
+@2016-Jan-26 21:37:27 INFO  clientLogger:214 - Message from server: List of players In the Game you can attack: [ chu rae  ]
+@2016-Jan-26 21:37:27 INFO  clientLogger:269 - Player 52821 broadcasted: join rae 127.0.0.1
+@2016-Jan-26 21:37:27 INFO  clientLogger:133 - Message from the server: GAME READY
+@2016-Jan-26 21:37:27 INFO  clientLogger:269 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-26 21:37:27 INFO  clientLogger:214 - Message from server: List of players In the Game you can attack: [ chu rae  ]
+@2016-Jan-26 21:37:27 INFO  clientLogger:133 - Message from the server: GAME READY
+@2016-Jan-26 21:38:04 INFO  clientLogger:137 - client sends this info to the server: select chu rae thrust 2 duck 2
+@2016-Jan-26 21:38:04 INFO  clientLogger:269 - Player 52820 broadcasted: select chu rae thrust 2 duck 2
+@2016-Jan-26 21:38:04 INFO  clientLogger:149 - Message from the server: WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-26 21:38:04 INFO  clientLogger:269 - 
+@2016-Jan-26 21:38:17 INFO  clientLogger:137 - client sends this info to the server: select rae chu swing 1 duck 3
+@2016-Jan-26 21:38:17 INFO  clientLogger:269 - Player 52820 broadcasted: select chu rae thrust 2 duck 2
+@2016-Jan-26 21:38:17 INFO  clientLogger:269 - 
+@2016-Jan-26 21:38:17 INFO  clientLogger:269 - Player 52821 broadcasted: select rae chu swing 1 duck 3
+@2016-Jan-26 21:38:17 INFO  clientLogger:269 - Player 52821 broadcasted: select rae chu swing 1 duck 3
+@2016-Jan-26 21:38:17 INFO  clientLogger:269 - 
+@2016-Jan-26 21:38:17 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-26 21:38:17 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-26 21:38:19 INFO  clientLogger:167 - Client sends this message to the server: roll chu 2
+@2016-Jan-26 21:38:19 INFO  clientLogger:269 - Player 52820 broadcasted: roll chu 2
+@2016-Jan-26 21:38:19 INFO  clientLogger:231 - Message from server: Wait to receive rolls and process it from other players
+@2016-Jan-26 21:38:22 INFO  clientLogger:167 - Client sends this message to the server: roll rae 1
+@2016-Jan-26 21:38:22 INFO  clientLogger:269 - Player 52821 broadcasted: roll rae 1
+@2016-Jan-26 21:38:22 INFO  clientLogger:269 - Player 52820 broadcasted: roll chu 2
+@2016-Jan-26 21:38:22 INFO  clientLogger:269 - Player 52821 broadcasted: roll rae 1
+@2016-Jan-26 21:38:22 INFO  clientLogger:220 - Message from server: OUTCOME [chu got 1 hit, rae got 1 hit]
+@2016-Jan-26 21:38:22 INFO  clientLogger:227 - For this round the total casualty was: [chu got 1 hit, rae got 1 hit]
+@2016-Jan-26 21:38:22 INFO  clientLogger:269 - 
+@2016-Jan-26 21:38:22 INFO  clientLogger:220 - Message from server: OUTCOME [chu got 1 hit, rae got 1 hit]
+@2016-Jan-26 21:38:22 INFO  clientLogger:240 - Message from server: There is still more rounds to play 2
+@2016-Jan-26 21:38:22 INFO  clientLogger:227 - For this round the total casualty was: [chu got 1 hit, rae got 1 hit]
+@2016-Jan-26 21:38:22 INFO  clientLogger:269 - 
+@2016-Jan-26 21:38:22 INFO  clientLogger:240 - Message from server: There is still more rounds to play 2
+@2016-Jan-26 21:38:37 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 2
+@2016-Jan-26 21:38:37 INFO  clientLogger:269 - Player 52820 broadcasted: select chu wei thrust 3 duck 1
+@2016-Jan-26 21:38:37 INFO  clientLogger:199 - Message from server: invalid attack name
+@2016-Jan-26 21:39:54 INFO  clientLogger:210 - Client sent to this to the server: select chu rae sick 2 duck 2
+@2016-Jan-26 21:39:54 INFO  clientLogger:269 - Player 52820 broadcasted: select chu rae sick 2 duck 2
+@2016-Jan-26 21:39:54 INFO  clientLogger:269 - 
+@2016-Jan-26 21:40:13 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 2
+@2016-Jan-26 21:40:13 INFO  clientLogger:269 - Player 52820 broadcasted: select chu wei thrust 3 duck 1
+@2016-Jan-26 21:40:13 INFO  clientLogger:269 - Player 52820 broadcasted: select chu rae sick 2 duck 2
+@2016-Jan-26 21:40:13 INFO  clientLogger:269 - 
+@2016-Jan-26 21:40:13 INFO  clientLogger:171 - Message from server: re enter credentials
+@2016-Jan-26 21:42:32 INFO  clientLogger:54 - e: Establishing connection. Please wait ...
+@2016-Jan-26 21:42:32 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-26 21:42:32 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-26 21:42:32 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-26 21:42:32 INFO  clientLogger:68 - e: Connected to server: localhost/127.0.0.1
+@2016-Jan-26 21:42:32 INFO  clientLogger:70 - e: Connected to portid: 52856
+@2016-Jan-26 21:42:32 INFO  clientLogger:122 - 
+52856: Client Started...
+
+@2016-Jan-26 21:42:32 INFO  clientLogger:74 - Client sent to server: join e 127.0.0.1
+@2016-Jan-26 21:42:32 INFO  clientLogger:269 - Player 52856 broadcasted: join e 127.0.0.1
+@2016-Jan-26 21:42:32 INFO  clientLogger:269 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-26 21:42:32 INFO  clientLogger:141 - Message from the server: WAITING FOR MORE PLAYERS
+@2016-Jan-26 21:42:40 INFO  clientLogger:54 - r: Establishing connection. Please wait ...
+@2016-Jan-26 21:42:40 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-26 21:42:40 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-26 21:42:40 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-26 21:42:40 INFO  clientLogger:68 - r: Connected to server: localhost/127.0.0.1
+@2016-Jan-26 21:42:40 INFO  clientLogger:70 - r: Connected to portid: 52857
+@2016-Jan-26 21:42:40 INFO  clientLogger:122 - 
+52857: Client Started...
+
+@2016-Jan-26 21:42:40 INFO  clientLogger:74 - Client sent to server: join r 127.0.0.1
+@2016-Jan-26 21:42:40 INFO  clientLogger:269 - Player 52857 broadcasted: join r 127.0.0.1
+@2016-Jan-26 21:42:40 INFO  clientLogger:269 - Player 52857 broadcasted: join r 127.0.0.1
+@2016-Jan-26 21:42:40 INFO  clientLogger:214 - Message from server: List of players In the Game you can attack: [ e r  ]
+@2016-Jan-26 21:42:40 INFO  clientLogger:269 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-26 21:42:40 INFO  clientLogger:214 - Message from server: List of players In the Game you can attack: [ e r  ]
+@2016-Jan-26 21:42:40 INFO  clientLogger:133 - Message from the server: GAME READY
+@2016-Jan-26 21:42:40 INFO  clientLogger:133 - Message from the server: GAME READY
+@2016-Jan-26 21:43:00 INFO  clientLogger:137 - client sends this info to the server: select e r thrust 2 duck 2
+@2016-Jan-26 21:43:00 INFO  clientLogger:269 - Player 52856 broadcasted: select e r thrust 2 duck 2
+@2016-Jan-26 21:43:00 INFO  clientLogger:149 - Message from the server: WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-26 21:43:00 INFO  clientLogger:269 - 
+@2016-Jan-26 21:46:11 INFO  clientLogger:137 - client sends this info to the server: select r e thrust 1 duck 3
+@2016-Jan-26 21:46:11 INFO  clientLogger:269 - Player 52856 broadcasted: select e r thrust 2 duck 2
+@2016-Jan-26 21:46:11 INFO  clientLogger:269 - Player 52857 broadcasted: select r e thrust 1 duck 3
+@2016-Jan-26 21:46:12 INFO  clientLogger:269 - 
+@2016-Jan-26 21:46:12 INFO  clientLogger:269 - Player 52857 broadcasted: select r e thrust 1 duck 3
+@2016-Jan-26 21:46:12 INFO  clientLogger:269 - 
+@2016-Jan-26 21:46:12 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-26 21:46:12 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-26 21:46:41 INFO  clientLogger:167 - Client sends this message to the server: roll e 3
+@2016-Jan-26 21:46:41 INFO  clientLogger:269 - Player 52856 broadcasted: roll e 3
+@2016-Jan-26 21:46:41 INFO  clientLogger:231 - Message from server: Wait to receive rolls and process it from other players
+@2016-Jan-26 21:46:43 INFO  clientLogger:167 - Client sends this message to the server: roll r 3
+@2016-Jan-26 21:46:43 INFO  clientLogger:269 - Player 52856 broadcasted: roll e 3
+@2016-Jan-26 21:46:43 INFO  clientLogger:269 - Player 52857 broadcasted: roll r 3
+@2016-Jan-26 21:46:43 INFO  clientLogger:269 - Player 52857 broadcasted: roll r 3
+@2016-Jan-26 21:46:43 INFO  clientLogger:220 - Message from server: OUTCOME [e got 2 hit, r got 2 hit]
+@2016-Jan-26 21:46:43 INFO  clientLogger:220 - Message from server: OUTCOME [e got 2 hit, r got 2 hit]
+@2016-Jan-26 21:46:43 INFO  clientLogger:227 - For this round the total casualty was: [e got 2 hit, r got 2 hit]
+@2016-Jan-26 21:46:43 INFO  clientLogger:269 - 
+@2016-Jan-26 21:46:43 INFO  clientLogger:227 - For this round the total casualty was: [e got 2 hit, r got 2 hit]
+@2016-Jan-26 21:46:43 INFO  clientLogger:240 - Message from server: There is still more rounds to play 2
+@2016-Jan-26 21:46:43 INFO  clientLogger:269 - 
+@2016-Jan-26 21:46:43 INFO  clientLogger:240 - Message from server: There is still more rounds to play 2
+@2016-Jan-26 21:47:06 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 2
+@2016-Jan-26 21:47:06 INFO  clientLogger:269 - Player 52856 broadcasted: select e r chuvk 2 duck 2
+@2016-Jan-26 21:47:06 INFO  clientLogger:269 - 
+@2016-Jan-26 21:53:58 INFO  clientLogger:54 - re: Establishing connection. Please wait ...
+@2016-Jan-26 21:53:58 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-26 21:53:58 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-26 21:53:58 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-26 21:53:58 INFO  clientLogger:68 - re: Connected to server: localhost/127.0.0.1
+@2016-Jan-26 21:53:58 INFO  clientLogger:70 - re: Connected to portid: 52873
+@2016-Jan-26 21:53:58 INFO  clientLogger:122 - 
+52873: Client Started...
+
+@2016-Jan-26 21:53:58 INFO  clientLogger:74 - Client sent to server: join re 127.0.0.1
+@2016-Jan-26 21:53:58 INFO  clientLogger:269 - Player 52873 broadcasted: join re 127.0.0.1
+@2016-Jan-26 21:53:58 INFO  clientLogger:269 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-26 21:53:58 INFO  clientLogger:141 - Message from the server: WAITING FOR MORE PLAYERS
+@2016-Jan-26 21:54:05 INFO  clientLogger:54 - we: Establishing connection. Please wait ...
+@2016-Jan-26 21:54:05 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-26 21:54:05 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-26 21:54:05 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-26 21:54:05 INFO  clientLogger:68 - we: Connected to server: localhost/127.0.0.1
+@2016-Jan-26 21:54:05 INFO  clientLogger:70 - we: Connected to portid: 52878
+@2016-Jan-26 21:54:05 INFO  clientLogger:122 - 
+52878: Client Started...
+
+@2016-Jan-26 21:54:05 INFO  clientLogger:74 - Client sent to server: join we 127.0.0.1
+@2016-Jan-26 21:54:05 INFO  clientLogger:269 - Player 52878 broadcasted: join we 127.0.0.1
+@2016-Jan-26 21:54:05 INFO  clientLogger:269 - Player 52878 broadcasted: join we 127.0.0.1
+@2016-Jan-26 21:54:05 INFO  clientLogger:269 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-26 21:54:05 INFO  clientLogger:214 - Message from server: List of players In the Game you can attack: [ re we  ]
+@2016-Jan-26 21:54:05 INFO  clientLogger:214 - Message from server: List of players In the Game you can attack: [ re we  ]
+@2016-Jan-26 21:54:05 INFO  clientLogger:133 - Message from the server: GAME READY
+@2016-Jan-26 21:54:05 INFO  clientLogger:133 - Message from the server: GAME READY
+@2016-Jan-26 21:54:16 INFO  clientLogger:137 - client sends this info to the server: select we re thrust 2 duck 2
+@2016-Jan-26 21:54:16 INFO  clientLogger:269 - Player 52878 broadcasted: select we re thrust 2 duck 2
+@2016-Jan-26 21:54:16 INFO  clientLogger:149 - Message from the server: WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-26 21:54:16 INFO  clientLogger:269 - 
+@2016-Jan-26 21:56:16 INFO  clientLogger:137 - client sends this info to the server: select re we swing 2 duck 2
+@2016-Jan-26 21:56:16 INFO  clientLogger:269 - Player 52878 broadcasted: select we re thrust 2 duck 2
+@2016-Jan-26 21:56:16 INFO  clientLogger:269 - 
+@2016-Jan-26 21:56:16 INFO  clientLogger:269 - Player 52873 broadcasted: select re we swing 2 duck 2
+@2016-Jan-26 21:56:16 INFO  clientLogger:269 - Player 52873 broadcasted: select re we swing 2 duck 2
+@2016-Jan-26 21:56:16 INFO  clientLogger:269 - 
+@2016-Jan-26 21:56:16 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-26 21:56:16 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-26 21:56:17 INFO  clientLogger:167 - Client sends this message to the server: roll we 3
+@2016-Jan-26 21:56:17 INFO  clientLogger:269 - Player 52878 broadcasted: roll we 3
+@2016-Jan-26 21:56:17 INFO  clientLogger:231 - Message from server: Wait to receive rolls and process it from other players
+@2016-Jan-26 21:56:21 INFO  clientLogger:167 - Client sends this message to the server: roll re 3
+@2016-Jan-26 21:56:21 INFO  clientLogger:269 - Player 52878 broadcasted: roll we 3
+@2016-Jan-26 21:56:21 INFO  clientLogger:269 - Player 52873 broadcasted: roll re 3
+@2016-Jan-26 21:56:21 INFO  clientLogger:269 - Player 52873 broadcasted: roll re 3
+@2016-Jan-26 21:56:21 INFO  clientLogger:220 - Message from server: OUTCOME [re got 1 hit, we got 0 hit]
+@2016-Jan-26 21:56:21 INFO  clientLogger:227 - For this round the total casualty was: [re got 1 hit, we got 0 hit]
+@2016-Jan-26 21:56:21 INFO  clientLogger:269 - 
+@2016-Jan-26 21:56:21 INFO  clientLogger:240 - Message from server: There is still more rounds to play 2
+@2016-Jan-26 21:56:21 INFO  clientLogger:220 - Message from server: OUTCOME [re got 1 hit, we got 0 hit]
+@2016-Jan-26 21:56:21 INFO  clientLogger:227 - For this round the total casualty was: [re got 1 hit, we got 0 hit]
+@2016-Jan-26 21:56:21 INFO  clientLogger:269 - 
+@2016-Jan-26 21:56:21 INFO  clientLogger:240 - Message from server: There is still more rounds to play 2
+@2016-Jan-26 21:56:39 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 2
+@2016-Jan-26 21:56:39 INFO  clientLogger:269 - Player 52873 broadcasted: select re we thwes 2 ducks 2
+@2016-Jan-26 21:56:39 INFO  clientLogger:185 - Message from server: WRONG ATTACK OR DEFENCE OR SPEED DETAILS
+@2016-Jan-26 21:57:20 INFO  clientLogger:253 - Client sent this message to the server server: There is still more rounds to play 2
+@2016-Jan-26 21:57:20 INFO  clientLogger:269 - Player 52873 broadcasted: select re we thwes 2 ducks 2
+@2016-Jan-26 21:57:20 INFO  clientLogger:269 - Player 52878 broadcasted: select we ew fishhhhh 2 duck 2
+@2016-Jan-26 21:57:20 INFO  clientLogger:199 - Message from server: invalid attack name
+@2016-Jan-26 21:57:43 INFO  clientLogger:210 - Client sent to this to the server: select we re ducckkkssss 2 dodge 2
+@2016-Jan-26 21:57:43 INFO  clientLogger:269 - Player 52878 broadcasted: select we re ducckkkssss 2 dodge 2
+@2016-Jan-26 21:57:43 INFO  clientLogger:185 - Message from server: WRONG ATTACK OR DEFENCE OR SPEED DETAILS
+@2016-Jan-27 03:18:18 INFO  clientLogger:195 - Client sends this info back to the server: select we re crst 2 duck 2
+@2016-Jan-27 03:18:18 INFO  clientLogger:269 - Player 52878 broadcasted: select we re crst 2 duck 2
+@2016-Jan-27 03:18:18 INFO  clientLogger:185 - Message from server: WRONG ATTACK OR DEFENCE OR SPEED DETAILS
+@2016-Jan-27 03:18:25 INFO  clientLogger:195 - Client sends this info back to the server: select we re thrust 2 duck 2
+@2016-Jan-27 03:18:25 INFO  clientLogger:269 - Player 52878 broadcasted: select we re thrust 2 duck 2
+@2016-Jan-27 03:18:25 INFO  clientLogger:149 - Message from the server: WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-27 03:18:25 INFO  clientLogger:269 - 
+@2016-Jan-27 10:55:36 INFO  clientLogger:54 - Guelor: Establishing connection. Please wait ...
+@2016-Jan-27 10:55:36 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-27 10:55:36 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-27 10:55:36 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-27 10:55:36 INFO  clientLogger:68 - Guelor: Connected to server: localhost/127.0.0.1
+@2016-Jan-27 10:55:36 INFO  clientLogger:70 - Guelor: Connected to portid: 54219
+@2016-Jan-27 10:55:36 INFO  clientLogger:122 - 
+54219: Client Started...
+
+@2016-Jan-27 10:55:36 INFO  clientLogger:74 - Client sent to server: join Guelor 127.0.0.1
+@2016-Jan-27 10:55:36 INFO  clientLogger:269 - Player 54219 broadcasted: join Guelor 127.0.0.1
+@2016-Jan-27 10:55:36 INFO  clientLogger:269 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-27 10:55:36 INFO  clientLogger:141 - Message from the server: WAITING FOR MORE PLAYERS
+@2016-Jan-27 10:55:54 INFO  clientLogger:54 - tope: Establishing connection. Please wait ...
+@2016-Jan-27 10:55:54 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-27 10:55:54 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-27 10:55:54 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-27 10:55:54 INFO  clientLogger:68 - tope: Connected to server: localhost/127.0.0.1
+@2016-Jan-27 10:55:54 INFO  clientLogger:70 - tope: Connected to portid: 54220
+@2016-Jan-27 10:55:54 INFO  clientLogger:122 - 
+54220: Client Started...
+
+@2016-Jan-27 10:55:54 INFO  clientLogger:74 - Client sent to server: join tope 127.0.0.1
+@2016-Jan-27 10:55:54 INFO  clientLogger:269 - Player 54220 broadcasted: join tope 127.0.0.1
+@2016-Jan-27 10:55:54 INFO  clientLogger:214 - Message from server: List of players In the Game you can attack: [ Guelor tope  ]
+@2016-Jan-27 10:55:54 INFO  clientLogger:269 - Player 54220 broadcasted: join tope 127.0.0.1
+@2016-Jan-27 10:55:54 INFO  clientLogger:269 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-27 10:55:54 INFO  clientLogger:214 - Message from server: List of players In the Game you can attack: [ Guelor tope  ]
+@2016-Jan-27 10:55:54 INFO  clientLogger:133 - Message from the server: GAME READY
+@2016-Jan-27 10:55:54 INFO  clientLogger:133 - Message from the server: GAME READY
+@2016-Jan-27 10:56:13 INFO  clientLogger:137 - client sends this info to the server: select Guelor remy thrust 2 duck 2
+@2016-Jan-27 10:56:13 INFO  clientLogger:269 - Player 54219 broadcasted: select Guelor remy thrust 2 duck 2
+@2016-Jan-27 10:56:13 INFO  clientLogger:199 - Message from server: invalid attack name
+@2016-Jan-27 10:56:30 INFO  clientLogger:210 - Client sent to this to the server: select Guelor tope thrust 2 duck 2
+@2016-Jan-27 10:56:30 INFO  clientLogger:269 - Player 54219 broadcasted: select Guelor tope thrust 2 duck 2
+@2016-Jan-27 10:56:30 INFO  clientLogger:149 - Message from the server: WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-27 10:56:30 INFO  clientLogger:269 - 
+@2016-Jan-27 10:56:48 INFO  clientLogger:137 - client sends this info to the server: select tope guelor thrust 1 dodge 3
+@2016-Jan-27 10:56:48 INFO  clientLogger:269 - Player 54219 broadcasted: select Guelor remy thrust 2 duck 2
+@2016-Jan-27 10:56:48 INFO  clientLogger:269 - Player 54219 broadcasted: select Guelor tope thrust 2 duck 2
+@2016-Jan-27 10:56:48 INFO  clientLogger:269 - 
+@2016-Jan-27 10:56:48 INFO  clientLogger:269 - Player 54220 broadcasted: select tope guelor thrust 1 dodge 3
+@2016-Jan-27 10:56:48 INFO  clientLogger:199 - Message from server: invalid attack name
+@2016-Jan-27 10:56:48 INFO  clientLogger:269 - Player 54220 broadcasted: select tope guelor thrust 1 dodge 3
+@2016-Jan-27 10:57:23 INFO  clientLogger:210 - Client sent to this to the server: select tope Guelor swing 1 duck 3
+@2016-Jan-27 10:57:23 INFO  clientLogger:269 - Player 54220 broadcasted: select tope Guelor swing 1 duck 3
+@2016-Jan-27 10:57:23 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-27 10:57:23 INFO  clientLogger:269 - Player 54220 broadcasted: select tope Guelor swing 1 duck 3
+@2016-Jan-27 10:57:23 INFO  clientLogger:269 - 
+@2016-Jan-27 10:57:23 INFO  clientLogger:157 - Message from the server: RESOLVE ROLL
+@2016-Jan-27 10:57:27 INFO  clientLogger:167 - Client sends this message to the server: roll tope 3
+@2016-Jan-27 10:57:27 INFO  clientLogger:269 - Player 54220 broadcasted: roll tope 3
+@2016-Jan-27 10:57:27 INFO  clientLogger:231 - Message from server: Wait to receive rolls and process it from other players
+@2016-Jan-27 10:57:36 INFO  clientLogger:167 - Client sends this message to the server: roll Guelor 4
+@2016-Jan-27 10:57:36 INFO  clientLogger:269 - Player 54220 broadcasted: roll tope 3
+@2016-Jan-27 10:57:36 INFO  clientLogger:269 - Player 54219 broadcasted: roll Guelor 4
+@2016-Jan-27 10:57:36 INFO  clientLogger:269 - Player 54219 broadcasted: roll Guelor 4
+@2016-Jan-27 10:57:36 INFO  clientLogger:220 - Message from server: OUTCOME [tope got 2 hit, Guelor got 1 hit]
+@2016-Jan-27 10:57:36 INFO  clientLogger:227 - For this round the total casualty was: [tope got 2 hit, Guelor got 1 hit]
+@2016-Jan-27 10:57:36 INFO  clientLogger:269 - 
+@2016-Jan-27 10:57:36 INFO  clientLogger:240 - Message from server: There is still more rounds to play 2
+@2016-Jan-27 10:57:36 INFO  clientLogger:220 - Message from server: OUTCOME [tope got 2 hit, Guelor got 1 hit]
+@2016-Jan-27 10:57:36 INFO  clientLogger:227 - For this round the total casualty was: [tope got 2 hit, Guelor got 1 hit]
+@2016-Jan-27 10:57:36 INFO  clientLogger:269 - 
+@2016-Jan-27 10:57:36 INFO  clientLogger:240 - Message from server: There is still more rounds to play 2
+@2016-Jan-27 16:21:38 INFO  clientLogger:54 - mir: Establishing connection. Please wait ...
+@2016-Jan-27 16:21:38 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-27 16:21:38 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-27 16:21:38 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-27 16:21:38 INFO  clientLogger:68 - mir: Connected to server: /127.0.0.1
+@2016-Jan-27 16:21:38 INFO  clientLogger:70 - mir: Connected to portid: 54721
+@2016-Jan-27 16:21:38 INFO  clientLogger:122 - 
+54721: Client Started...
+
+@2016-Jan-27 16:21:38 INFO  clientLogger:74 - Client sent to server: join mir 127.0.0.1
+@2016-Jan-27 16:21:38 INFO  clientLogger:269 - Player 54721 broadcasted: join mir 127.0.0.1
+@2016-Jan-27 16:21:52 INFO  clientLogger:54 - mir: Establishing connection. Please wait ...
+@2016-Jan-27 16:21:52 INFO  clientLogger:61 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+@2016-Jan-27 16:21:52 INFO  clientLogger:63 - WELCOME TO GAME OF THE SURVIVAL OF THE FITTEST
+@2016-Jan-27 16:21:52 INFO  clientLogger:65 - =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
+
+@2016-Jan-27 16:21:52 INFO  clientLogger:68 - mir: Connected to server: /127.0.0.1
+@2016-Jan-27 16:21:52 INFO  clientLogger:70 - mir: Connected to portid: 54724
+@2016-Jan-27 16:21:52 INFO  clientLogger:74 - Client sent to server: join mir 127.0.0.1
+@2016-Jan-27 16:21:52 INFO  clientLogger:122 - 
+54724: Client Started...
+
+@

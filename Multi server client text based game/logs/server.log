@@ -1,0 +1,597 @@
+2016-Jan-25 01:54:51 INFO  serverLogger:25 - Starting the server at port:3001
+@2016-Jan-25 01:54:51 INFO  serverLogger:30 - Waiting for clients...
+@2016-Jan-25 01:54:56 INFO  serverLogger:25 - Starting the server at port:3001
+@2016-Jan-25 01:55:08 INFO  serverLogger:35 - Client connected to server on port: 3001 , IP address: 127.0.0.1
+@2016-Jan-25 01:55:08 INFO  serverLogger:41 - Server sent: Hello and welcome!
+@2016-Jan-25 04:53:18 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 04:57:11 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 04:59:13 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:03:02 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:04:50 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:05:06 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:05:55 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:09:58 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:10:56 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:12:05 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:13:07 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:13:37 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:16:06 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:17:00 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:18:44 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:19:19 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:21:34 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:25:21 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:25:57 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:29:08 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:30:57 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:31:24 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:32:42 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:33:17 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:37:12 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:47:21 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:47:31 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:47:31 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:50:45 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:50:52 INFO  serverLogger:64 - Binding to port 3002, please wait  ...
+@2016-Jan-25 05:50:52 INFO  serverLogger:64 - Binding to port 3003, please wait  ...
+@2016-Jan-25 05:52:43 INFO  serverLogger:64 - Binding to port 3001, please wait  ...
+@2016-Jan-25 05:58:04 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-25 06:00:34 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-25 06:01:20 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-25 06:05:00 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-25 06:08:59 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-25 06:10:27 INFO  serverLogger:66 - Binding to port 3004, please wait  ...
+@2016-Jan-25 06:10:45 INFO  serverLogger:66 - Binding to port 3004, please wait  ...
+@2016-Jan-25 06:12:15 INFO  serverLogger:66 - Binding to port 3003, please wait  ...
+@2016-Jan-25 06:13:40 INFO  serverLogger:66 - Binding to port 3002, please wait  ...
+@2016-Jan-25 06:14:34 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-25 06:15:54 INFO  serverLogger:66 - Binding to port 3003, please wait  ...
+@2016-Jan-25 06:17:37 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-25 06:19:04 INFO  serverLogger:66 - Binding to port 3003, please wait  ...
+@2016-Jan-25 06:20:14 INFO  serverLogger:66 - Binding to port 3003, please wait  ...
+@2016-Jan-25 06:22:24 INFO  serverLogger:66 - Binding to port 3004, please wait  ...
+@2016-Jan-25 06:22:53 INFO  serverLogger:66 - Binding to port 3004, please wait  ...
+@2016-Jan-25 07:16:42 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-25 07:16:42 INFO  serverLogger:68 - Binding to port 3001
+@2016-Jan-25 07:16:42 INFO  serverLogger:94 - 
+@2016-Jan-25 07:29:17 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-25 07:29:17 INFO  serverLogger:68 - Binding to port 3001
+@2016-Jan-25 07:29:17 INFO  serverLogger:94 - 
+
+@2016-Jan-25 10:08:47 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-25 10:08:48 INFO  serverLogger:69 - Binding to port 3001
+@2016-Jan-25 10:08:48 ERROR serverLogger:86 - Address already in use
+@2016-Jan-25 10:09:14 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-25 10:09:14 INFO  serverLogger:69 - Binding to port 3001
+@2016-Jan-25 10:09:18 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-25 10:09:18 INFO  serverLogger:126 - Server started: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=3001] 9
+@2016-Jan-25 10:09:33 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=49220,localport=3001]
+@2016-Jan-25 10:09:33 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-25 10:09:33 INFO  serverLogger:98 - Server Thread Running49220
+@2016-Jan-25 10:09:33 INFO  serverLogger:197 - join joe 127.0.0.1
+@2016-Jan-25 10:09:33 INFO  serverLogger:202 - Player 49220 broadcasted: join joe 127.0.0.1
+@2016-Jan-25 10:09:33 INFO  serverLogger:203 - Server sent: startGame 2 Players 7 rounds
+@2016-Jan-25 10:09:33 INFO  serverLogger:219 - WAITING FOR MORE PLAYERS
+@2016-Jan-25 10:09:42 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=49221,localport=3001]
+@2016-Jan-25 10:09:42 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-25 10:09:42 INFO  serverLogger:98 - Server Thread Running49221
+@2016-Jan-25 10:09:42 INFO  serverLogger:197 - join fred 127.0.0.1
+@2016-Jan-25 10:09:42 INFO  serverLogger:202 - Player 49221 broadcasted: join fred 127.0.0.1
+@2016-Jan-25 10:09:42 INFO  serverLogger:203 - Server sent: startGame 2 Players 7 rounds
+@2016-Jan-25 10:09:42 INFO  serverLogger:216 - List of players In the Game you can attack: [ joe fred  ]
+@2016-Jan-25 10:09:42 INFO  serverLogger:219 - GAME READY
+@2016-Jan-25 10:10:16 INFO  serverLogger:224 - select fred joe thrust 1 duck 3
+@2016-Jan-25 10:10:16 INFO  serverLogger:275 - WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:10:16 INFO  serverLogger:283 - 
+@2016-Jan-25 10:10:32 INFO  serverLogger:224 - select joe fred thrust 1 dodge 3
+@2016-Jan-25 10:10:32 INFO  serverLogger:275 - 
+@2016-Jan-25 10:10:32 INFO  serverLogger:283 - RESOLVE ROLL
+@2016-Jan-25 10:10:40 INFO  serverLogger:310 - Player 49221 broadcasted: roll fred 1
+@2016-Jan-25 10:10:40 INFO  serverLogger:420 - Wait to receive rolls and process it from other players
+@2016-Jan-25 10:10:46 INFO  serverLogger:310 - Player 49220 broadcasted: roll joe 1
+@2016-Jan-25 10:10:46 INFO  serverLogger:394 - OUTCOME [fred got 1 hit, joe got 1 hit]
+
+@2016-Jan-25 10:10:46 INFO  serverLogger:404 - There is still more rounds to play 2
+@2016-Jan-25 10:11:27 INFO  serverLogger:224 - select fred joe thrust 2 duck 2
+@2016-Jan-25 10:11:27 INFO  serverLogger:275 - WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:11:27 INFO  serverLogger:283 - 
+@2016-Jan-25 10:11:49 INFO  serverLogger:224 - select joe fred thrust 3 duck 1
+@2016-Jan-25 10:11:49 INFO  serverLogger:275 - 
+@2016-Jan-25 10:11:49 INFO  serverLogger:283 - RESOLVE ROLL
+@2016-Jan-25 10:11:57 INFO  serverLogger:310 - Player 49220 broadcasted: roll joe 2
+@2016-Jan-25 10:11:57 INFO  serverLogger:420 - Wait to receive rolls and process it from other players
+@2016-Jan-25 10:12:01 INFO  serverLogger:310 - Player 49221 broadcasted: roll fred 2
+@2016-Jan-25 10:12:01 INFO  serverLogger:394 - OUTCOME [fred got 0 hit, joe got 0 hit]
+
+@2016-Jan-25 10:12:01 INFO  serverLogger:404 - There is still more rounds to play 3
+@2016-Jan-25 10:13:08 INFO  serverLogger:224 - select fred joe thrust 3 charge 1
+@2016-Jan-25 10:13:08 INFO  serverLogger:275 - WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:13:08 INFO  serverLogger:283 - 
+@2016-Jan-25 10:13:28 INFO  serverLogger:224 - select joe fred thrust 3 charge 1
+@2016-Jan-25 10:13:28 INFO  serverLogger:275 - 
+@2016-Jan-25 10:13:28 INFO  serverLogger:283 - RESOLVE ROLL
+@2016-Jan-25 10:13:32 INFO  serverLogger:310 - Player 49220 broadcasted: roll joe 2
+@2016-Jan-25 10:13:32 INFO  serverLogger:420 - Wait to receive rolls and process it from other players
+@2016-Jan-25 10:13:36 INFO  serverLogger:310 - Player 49221 broadcasted: roll fred 1
+@2016-Jan-25 10:13:36 INFO  serverLogger:394 - OUTCOME [fred got 1 hit, joe got 1 hit]
+
+@2016-Jan-25 10:13:36 INFO  serverLogger:404 - There is still more rounds to play 4
+@2016-Jan-25 10:14:32 INFO  serverLogger:224 - select fred joe thrust 3 duck 1
+@2016-Jan-25 10:14:32 INFO  serverLogger:275 - WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:14:32 INFO  serverLogger:283 - 
+@2016-Jan-25 10:14:50 INFO  serverLogger:224 - select joe fred thrust 3 charge 1
+@2016-Jan-25 10:14:50 INFO  serverLogger:275 - 
+@2016-Jan-25 10:14:50 INFO  serverLogger:283 - RESOLVE ROLL
+@2016-Jan-25 10:14:56 INFO  serverLogger:310 - Player 49220 broadcasted: roll joe 3
+@2016-Jan-25 10:14:56 INFO  serverLogger:420 - Wait to receive rolls and process it from other players
+@2016-Jan-25 10:15:00 INFO  serverLogger:310 - Player 49221 broadcasted: roll fred 6
+@2016-Jan-25 10:15:00 INFO  serverLogger:394 - OUTCOME [fred got 1 hit, joe got 0 hit]
+
+@2016-Jan-25 10:15:00 INFO  serverLogger:404 - There is still more rounds to play 5
+@2016-Jan-25 10:18:45 INFO  serverLogger:224 - select fred joe swing 3 duck 1
+@2016-Jan-25 10:18:45 INFO  serverLogger:275 - WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:18:45 INFO  serverLogger:283 - 
+@2016-Jan-25 10:19:00 INFO  serverLogger:224 - select joe fred smash 3 dodge 1
+@2016-Jan-25 10:19:00 INFO  serverLogger:275 - 
+@2016-Jan-25 10:19:00 INFO  serverLogger:283 - RESOLVE ROLL
+@2016-Jan-25 10:19:05 INFO  serverLogger:310 - Player 49221 broadcasted: roll fred 1
+@2016-Jan-25 10:19:05 INFO  serverLogger:420 - Wait to receive rolls and process it from other players
+@2016-Jan-25 10:19:09 INFO  serverLogger:310 - Player 49220 broadcasted: roll joe 1
+@2016-Jan-25 10:19:09 INFO  serverLogger:394 - OUTCOME [fred got 1 hit, joe got 1 hit]
+
+@2016-Jan-25 10:19:09 INFO  serverLogger:404 - There is still more rounds to play 6
+@2016-Jan-25 10:20:19 INFO  serverLogger:224 - select fred joe swing 3 charge 1
+@2016-Jan-25 10:20:19 INFO  serverLogger:275 - WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:20:19 INFO  serverLogger:283 - 
+@2016-Jan-25 10:20:40 INFO  serverLogger:224 - select joe fred smash 3 charge 1
+@2016-Jan-25 10:20:40 INFO  serverLogger:275 - 
+@2016-Jan-25 10:20:40 INFO  serverLogger:283 - RESOLVE ROLL
+@2016-Jan-25 10:20:49 INFO  serverLogger:310 - Player 49221 broadcasted: roll fred 4
+@2016-Jan-25 10:20:49 INFO  serverLogger:420 - Wait to receive rolls and process it from other players
+@2016-Jan-25 10:20:54 INFO  serverLogger:310 - Player 49220 broadcasted: roll joe 5
+@2016-Jan-25 10:20:54 INFO  serverLogger:394 - OUTCOME [fred got 1 hit, joe got 1 hit]
+
+@2016-Jan-25 10:20:54 INFO  serverLogger:404 - There is still more rounds to play 7
+@2016-Jan-25 10:21:17 INFO  serverLogger:224 - select fred joe thrust 1 dodge 3
+@2016-Jan-25 10:21:17 INFO  serverLogger:275 - WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:21:17 INFO  serverLogger:283 - 
+@2016-Jan-25 10:21:44 INFO  serverLogger:224 - select joe fred smash 1 charge 3
+@2016-Jan-25 10:21:44 INFO  serverLogger:275 - 
+@2016-Jan-25 10:21:44 INFO  serverLogger:283 - RESOLVE ROLL
+@2016-Jan-25 10:21:50 INFO  serverLogger:310 - Player 49221 broadcasted: roll fred 1
+@2016-Jan-25 10:21:50 INFO  serverLogger:420 - Wait to receive rolls and process it from other players
+@2016-Jan-25 10:21:54 INFO  serverLogger:310 - Player 49220 broadcasted: roll joe 4
+@2016-Jan-25 10:21:54 INFO  serverLogger:394 - OUTCOME [joe got 2 hit, fred got 2 hit]
+
+@2016-Jan-25 10:21:54 INFO  serverLogger:413 - Round is done
+@2016-Jan-25 10:21:54 INFO  serverLogger:182 - game done
+@2016-Jan-25 10:21:54 INFO  serverLogger:182 - game done
+@2016-Jan-25 10:22:04 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-25 10:22:04 INFO  serverLogger:69 - Binding to port 3001
+@2016-Jan-25 10:22:04 ERROR serverLogger:86 - Address already in use
+@2016-Jan-25 10:22:13 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-25 10:22:13 INFO  serverLogger:69 - Binding to port 3001
+@2016-Jan-25 10:22:16 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-25 10:22:16 INFO  serverLogger:126 - Server started: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=3001] 9
+@2016-Jan-25 10:22:29 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=49239,localport=3001]
+@2016-Jan-25 10:22:29 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-25 10:22:29 INFO  serverLogger:98 - Server Thread Running49239
+@2016-Jan-25 10:22:29 INFO  serverLogger:197 - join jack 127.0.0.1
+@2016-Jan-25 10:22:29 INFO  serverLogger:202 - Player 49239 broadcasted: join jack 127.0.0.1
+@2016-Jan-25 10:22:29 INFO  serverLogger:203 - Server sent: startGame 3 Players 3 rounds
+@2016-Jan-25 10:22:29 INFO  serverLogger:219 - WAITING FOR MORE PLAYERS
+@2016-Jan-25 10:22:48 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=49240,localport=3001]
+@2016-Jan-25 10:22:48 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-25 10:22:48 INFO  serverLogger:98 - Server Thread Running49240
+@2016-Jan-25 10:22:48 INFO  serverLogger:197 - join joe 127.0.0.1
+@2016-Jan-25 10:22:48 INFO  serverLogger:202 - Player 49240 broadcasted: join joe 127.0.0.1
+@2016-Jan-25 10:22:48 INFO  serverLogger:203 - Server sent: startGame 3 Players 3 rounds
+@2016-Jan-25 10:22:48 INFO  serverLogger:219 - WAITING FOR MORE PLAYERS
+@2016-Jan-25 10:22:56 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=49245,localport=3001]
+@2016-Jan-25 10:22:56 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-25 10:22:56 INFO  serverLogger:98 - Server Thread Running49245
+@2016-Jan-25 10:22:56 INFO  serverLogger:197 - join fred 127.0.0.1
+@2016-Jan-25 10:22:56 INFO  serverLogger:202 - Player 49245 broadcasted: join fred 127.0.0.1
+@2016-Jan-25 10:22:56 INFO  serverLogger:203 - Server sent: startGame 3 Players 3 rounds
+@2016-Jan-25 10:22:56 INFO  serverLogger:216 - List of players In the Game you can attack: [ jack joe fred  ]
+@2016-Jan-25 10:22:56 INFO  serverLogger:219 - GAME READY
+@2016-Jan-25 10:23:19 INFO  serverLogger:224 - select jack joe swing 1 duck 3
+@2016-Jan-25 10:23:19 INFO  serverLogger:275 - WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:23:19 INFO  serverLogger:283 - 
+@2016-Jan-25 10:23:57 INFO  serverLogger:224 - select fred joe thrust 2 dodge 2
+@2016-Jan-25 10:23:57 INFO  serverLogger:275 - WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:23:57 INFO  serverLogger:283 - 
+@2016-Jan-25 10:24:46 INFO  serverLogger:224 - select joe fred smash 2 charge 2
+@2016-Jan-25 10:24:46 INFO  serverLogger:275 - 
+@2016-Jan-25 10:24:46 INFO  serverLogger:283 - RESOLVE ROLL
+@2016-Jan-25 10:24:56 INFO  serverLogger:310 - Player 49245 broadcasted: roll fred 1
+@2016-Jan-25 10:24:56 INFO  serverLogger:420 - Wait to receive rolls and process it from other players
+@2016-Jan-25 10:25:11 INFO  serverLogger:310 - Player 49239 broadcasted: roll jack 4
+@2016-Jan-25 10:25:11 INFO  serverLogger:420 - Wait to receive rolls and process it from other players
+@2016-Jan-25 10:25:51 INFO  serverLogger:310 - Player 49240 broadcasted: roll joe 1
+@2016-Jan-25 10:25:51 INFO  serverLogger:394 - OUTCOME [fred got 0 hit, joe got 3 hit, jack got 0 hit]
+
+@2016-Jan-25 10:25:51 INFO  serverLogger:404 - There is still more rounds to play 2
+@2016-Jan-25 10:26:36 INFO  serverLogger:224 - select joe jack smash 3 duck 1
+@2016-Jan-25 10:26:36 INFO  serverLogger:275 - WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:26:36 INFO  serverLogger:283 - 
+@2016-Jan-25 10:27:10 INFO  serverLogger:224 - select jack fred thrust 3 charge 1
+@2016-Jan-25 10:27:10 INFO  serverLogger:275 - WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:27:10 INFO  serverLogger:283 - 
+@2016-Jan-25 10:27:34 INFO  serverLogger:224 - select fred joe swing 3 dodge 1
+@2016-Jan-25 10:27:34 INFO  serverLogger:275 - 
+@2016-Jan-25 10:27:34 INFO  serverLogger:283 - RESOLVE ROLL
+@2016-Jan-25 10:27:48 INFO  serverLogger:310 - Player 49245 broadcasted: roll fred 1
+@2016-Jan-25 10:27:48 INFO  serverLogger:420 - Wait to receive rolls and process it from other players
+@2016-Jan-25 10:27:57 INFO  serverLogger:310 - Player 49240 broadcasted: roll joe 1
+@2016-Jan-25 10:27:57 INFO  serverLogger:420 - Wait to receive rolls and process it from other players
+@2016-Jan-25 10:28:04 INFO  serverLogger:310 - Player 49239 broadcasted: roll jack 1
+@2016-Jan-25 10:28:04 INFO  serverLogger:394 - OUTCOME [fred got 0 hit, jack got 0 hit, joe got 0 hit]
+
+@2016-Jan-25 10:28:04 INFO  serverLogger:404 - There is still more rounds to play 3
+@2016-Jan-25 10:28:58 INFO  serverLogger:224 - select fred joe thrust 1 dodge 3
+@2016-Jan-25 10:28:58 INFO  serverLogger:275 - WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:28:58 INFO  serverLogger:283 - 
+@2016-Jan-25 10:29:24 INFO  serverLogger:224 - select joe jack swing 2 duck 2
+@2016-Jan-25 10:29:24 INFO  serverLogger:275 - WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:29:24 INFO  serverLogger:283 - 
+@2016-Jan-25 10:29:45 INFO  serverLogger:224 - select jack joe smash 3 charge 1
+@2016-Jan-25 10:29:45 INFO  serverLogger:275 - 
+@2016-Jan-25 10:29:45 INFO  serverLogger:283 - RESOLVE ROLL
+@2016-Jan-25 10:30:00 INFO  serverLogger:310 - Player 49245 broadcasted: roll fred 6
+@2016-Jan-25 10:30:00 INFO  serverLogger:420 - Wait to receive rolls and process it from other players
+@2016-Jan-25 10:30:13 INFO  serverLogger:310 - Player 49240 broadcasted: roll joe 4
+@2016-Jan-25 10:30:13 INFO  serverLogger:420 - Wait to receive rolls and process it from other players
+@2016-Jan-25 10:30:28 INFO  serverLogger:310 - Player 49239 broadcasted: roll jack 3
+@2016-Jan-25 10:30:28 INFO  serverLogger:394 - OUTCOME [jack got 1 hit, fred got 0 hit, joe got 1 hit]
+
+@2016-Jan-25 10:30:28 INFO  serverLogger:413 - Round is done
+@2016-Jan-25 10:30:28 INFO  serverLogger:182 - game done
+@2016-Jan-25 10:30:28 INFO  serverLogger:182 - game done
+@2016-Jan-25 10:30:28 INFO  serverLogger:182 - game done
+@2016-Jan-25 10:31:36 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-25 10:31:36 INFO  serverLogger:69 - Binding to port 3001
+@2016-Jan-25 10:31:36 ERROR serverLogger:86 - Address already in use
+@2016-Jan-25 10:31:47 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-25 10:31:47 INFO  serverLogger:69 - Binding to port 3001
+@2016-Jan-25 10:32:08 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-25 10:32:08 INFO  serverLogger:126 - Server started: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=3001] 12
+@2016-Jan-25 10:32:25 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=49288,localport=3001]
+@2016-Jan-25 10:32:25 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-25 10:32:25 INFO  serverLogger:98 - Server Thread Running49288
+@2016-Jan-25 10:32:25 INFO  serverLogger:197 - join jack 127.0.0.1
+@2016-Jan-25 10:32:25 INFO  serverLogger:202 - Player 49288 broadcasted: join jack 127.0.0.1
+@2016-Jan-25 10:32:25 INFO  serverLogger:203 - Server sent: startGame 4 Players 1 rounds
+@2016-Jan-25 10:32:25 INFO  serverLogger:219 - WAITING FOR MORE PLAYERS
+@2016-Jan-25 10:32:39 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=49289,localport=3001]
+@2016-Jan-25 10:32:39 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-25 10:32:39 INFO  serverLogger:98 - Server Thread Running49289
+@2016-Jan-25 10:32:39 INFO  serverLogger:197 - join joe 127.0.0.1
+@2016-Jan-25 10:32:39 INFO  serverLogger:202 - Player 49289 broadcasted: join joe 127.0.0.1
+@2016-Jan-25 10:32:39 INFO  serverLogger:203 - Server sent: startGame 4 Players 1 rounds
+@2016-Jan-25 10:32:39 INFO  serverLogger:219 - WAITING FOR MORE PLAYERS
+@2016-Jan-25 10:32:49 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=49290,localport=3001]
+@2016-Jan-25 10:32:49 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-25 10:32:49 INFO  serverLogger:98 - Server Thread Running49290
+@2016-Jan-25 10:32:49 INFO  serverLogger:197 - join fred 127.0.0.1
+@2016-Jan-25 10:32:49 INFO  serverLogger:202 - Player 49290 broadcasted: join fred 127.0.0.1
+@2016-Jan-25 10:32:49 INFO  serverLogger:203 - Server sent: startGame 4 Players 1 rounds
+@2016-Jan-25 10:32:49 INFO  serverLogger:219 - WAITING FOR MORE PLAYERS
+@2016-Jan-25 10:32:57 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=49291,localport=3001]
+@2016-Jan-25 10:32:57 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-25 10:32:57 INFO  serverLogger:98 - Server Thread Running49291
+@2016-Jan-25 10:32:57 INFO  serverLogger:197 - join jill 127.0.0.1
+@2016-Jan-25 10:32:57 INFO  serverLogger:202 - Player 49291 broadcasted: join jill 127.0.0.1
+@2016-Jan-25 10:32:57 INFO  serverLogger:203 - Server sent: startGame 4 Players 1 rounds
+@2016-Jan-25 10:32:57 INFO  serverLogger:216 - List of players In the Game you can attack: [ jack joe fred jill  ]
+@2016-Jan-25 10:32:57 INFO  serverLogger:219 - GAME READY
+@2016-Jan-25 10:33:16 INFO  serverLogger:224 - select jack joe swing 1 duck 3
+@2016-Jan-25 10:33:16 INFO  serverLogger:275 - WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:33:16 INFO  serverLogger:283 - 
+@2016-Jan-25 10:33:50 INFO  serverLogger:224 - select fred joe thrust 2 dodge 2
+@2016-Jan-25 10:33:50 INFO  serverLogger:275 - WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:33:50 INFO  serverLogger:283 - 
+@2016-Jan-25 10:34:04 INFO  serverLogger:224 - select jill fred smash 3 charge 1
+@2016-Jan-25 10:34:04 INFO  serverLogger:275 - WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-25 10:34:04 INFO  serverLogger:283 - 
+@2016-Jan-25 10:34:25 INFO  serverLogger:224 - select joe jill smash 1 charge 3
+@2016-Jan-25 10:34:25 INFO  serverLogger:275 - 
+@2016-Jan-25 10:34:25 INFO  serverLogger:283 - RESOLVE ROLL
+@2016-Jan-25 10:34:39 INFO  serverLogger:310 - Player 49290 broadcasted: roll fred 1
+@2016-Jan-25 10:34:39 INFO  serverLogger:420 - Wait to receive rolls and process it from other players
+@2016-Jan-25 10:34:56 INFO  serverLogger:310 - Player 49288 broadcasted: roll jack 4
+@2016-Jan-25 10:34:56 INFO  serverLogger:420 - Wait to receive rolls and process it from other players
+@2016-Jan-25 10:35:08 INFO  serverLogger:310 - Player 49291 broadcasted: roll jill 5
+@2016-Jan-25 10:35:08 INFO  serverLogger:420 - Wait to receive rolls and process it from other players
+@2016-Jan-25 10:35:20 INFO  serverLogger:310 - Player 49289 broadcasted: roll joe 6
+@2016-Jan-25 10:35:20 INFO  serverLogger:394 - OUTCOME [fred got 0 hit, jill got 1 hit, joe got 4 hit, jack got 0 hit]
+
+@2016-Jan-25 10:35:20 INFO  serverLogger:413 - Round is done
+@2016-Jan-25 10:35:20 INFO  serverLogger:182 - game done
+@2016-Jan-25 10:35:20 INFO  serverLogger:182 - game done
+@2016-Jan-25 10:35:20 INFO  serverLogger:182 - game done
+@2016-Jan-25 10:35:20 INFO  serverLogger:182 - game done
+@2016-Jan-26 16:14:05 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-26 16:14:05 INFO  serverLogger:69 - Binding to port 3001
+@2016-Jan-26 16:14:14 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-26 16:14:14 INFO  serverLogger:126 - Server started: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=3001] 9
+@2016-Jan-26 16:14:26 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=51765,localport=3001]
+@2016-Jan-26 16:14:26 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-26 16:14:26 INFO  serverLogger:98 - Server Thread Running51765
+@2016-Jan-26 16:14:26 INFO  serverLogger:197 - join chuboy 127.0.0.1
+@2016-Jan-26 16:14:26 INFO  serverLogger:202 - Player 51765 broadcasted: join chuboy 127.0.0.1
+@2016-Jan-26 16:14:26 INFO  serverLogger:203 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-26 16:14:26 INFO  serverLogger:219 - WAITING FOR MORE PLAYERS
+@2016-Jan-26 16:14:49 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=51766,localport=3001]
+@2016-Jan-26 16:14:49 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-26 16:14:49 INFO  serverLogger:98 - Server Thread Running51766
+@2016-Jan-26 16:14:49 INFO  serverLogger:197 - join jon 127.0.0.1
+@2016-Jan-26 16:14:49 INFO  serverLogger:202 - Player 51766 broadcasted: join jon 127.0.0.1
+@2016-Jan-26 16:14:49 INFO  serverLogger:203 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-26 16:14:49 INFO  serverLogger:216 - List of players In the Game you can attack: [ chuboy jon  ]
+@2016-Jan-26 16:14:49 INFO  serverLogger:219 - GAME READY
+@2016-Jan-26 16:15:09 INFO  serverLogger:224 - select jon ded thurst 2 duck 2
+@2016-Jan-26 16:15:09 INFO  serverLogger:297 - invalid attack name
+@2016-Jan-26 20:43:56 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-26 20:43:56 INFO  serverLogger:69 - Binding to port 3001
+@2016-Jan-26 20:44:16 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-26 20:44:16 INFO  serverLogger:126 - Server started: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=3001] 10
+@2016-Jan-26 20:44:21 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=52312,localport=3001]
+@2016-Jan-26 20:44:21 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-26 20:44:21 INFO  serverLogger:98 - Server Thread Running52312
+@2016-Jan-26 20:44:21 INFO  serverLogger:197 - join chuboy 127.0.0.1
+@2016-Jan-26 20:44:21 INFO  serverLogger:202 - Player 52312 broadcasted: join chuboy 127.0.0.1
+@2016-Jan-26 20:44:21 INFO  serverLogger:203 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-26 20:44:21 INFO  serverLogger:219 - WAITING FOR MORE PLAYERS
+@2016-Jan-26 20:44:55 INFO  serverLogger:66 - Binding to port 3004, please wait  ...
+@2016-Jan-26 20:44:55 INFO  serverLogger:69 - Binding to port 3004
+@2016-Jan-26 20:45:02 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-26 20:45:02 INFO  serverLogger:126 - Server started: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=3004] 10
+@2016-Jan-26 20:45:06 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=52315,localport=3004]
+@2016-Jan-26 20:45:06 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-26 20:45:06 INFO  serverLogger:98 - Server Thread Running52315
+@2016-Jan-26 20:45:06 INFO  serverLogger:197 - join tope 127.0.0.1
+@2016-Jan-26 20:45:06 INFO  serverLogger:202 - Player 52315 broadcasted: join tope 127.0.0.1
+@2016-Jan-26 20:45:06 INFO  serverLogger:203 - Server sent: startGame 4 Players 2 rounds
+@2016-Jan-26 20:45:06 INFO  serverLogger:219 - WAITING FOR MORE PLAYERS
+@2016-Jan-26 20:45:06 INFO  serverLogger:197 - join fred
+@2016-Jan-26 20:45:06 INFO  serverLogger:202 - Player 52315 broadcasted: join fred
+@2016-Jan-26 20:45:06 INFO  serverLogger:203 - Server sent: startGame 4 Players 2 rounds
+@2016-Jan-26 20:45:06 INFO  serverLogger:219 - WAITING FOR MORE PLAYERS
+@2016-Jan-26 20:45:06 INFO  serverLogger:197 - join jack
+@2016-Jan-26 20:45:34 INFO  serverLogger:66 - Binding to port 3004, please wait  ...
+@2016-Jan-26 20:45:34 INFO  serverLogger:69 - Binding to port 3004
+@2016-Jan-26 20:45:43 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-26 20:45:43 INFO  serverLogger:126 - Server started: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=3004] 10
+@2016-Jan-26 20:45:50 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=52319,localport=3004]
+@2016-Jan-26 20:45:50 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-26 20:45:50 INFO  serverLogger:98 - Server Thread Running52319
+@2016-Jan-26 20:45:50 INFO  serverLogger:197 - join chuboy 127.0.0.1
+@2016-Jan-26 20:45:50 INFO  serverLogger:202 - Player 52319 broadcasted: join chuboy 127.0.0.1
+@2016-Jan-26 20:45:50 INFO  serverLogger:203 - Server sent: startGame 4 Players 2 rounds
+@2016-Jan-26 20:45:50 INFO  serverLogger:219 - WAITING FOR MORE PLAYERS
+@2016-Jan-26 20:45:50 INFO  serverLogger:197 - join fred
+@2016-Jan-26 20:45:50 INFO  serverLogger:202 - Player 52319 broadcasted: join fred
+@2016-Jan-26 20:45:50 INFO  serverLogger:203 - Server sent: startGame 4 Players 2 rounds
+@2016-Jan-26 20:45:50 INFO  serverLogger:219 - WAITING FOR MORE PLAYERS
+@2016-Jan-26 20:45:50 INFO  serverLogger:197 - join jack
+@2016-Jan-26 20:45:50 INFO  serverLogger:202 - Player 52319 broadcasted: join jack
+@2016-Jan-26 20:45:50 INFO  serverLogger:203 - Server sent: startGame 4 Players 2 rounds
+@2016-Jan-26 20:45:50 INFO  serverLogger:219 - WAITING FOR MORE PLAYERS
+@2016-Jan-26 20:45:50 INFO  serverLogger:197 - join joe
+@2016-Jan-26 20:45:50 INFO  serverLogger:202 - Player 52319 broadcasted: join joe
+@2016-Jan-26 20:45:50 INFO  serverLogger:203 - Server sent: startGame 4 Players 2 rounds
+@2016-Jan-26 20:45:50 INFO  serverLogger:216 - List of players In the Game you can attack: [ chuboy fred jack joe  ]
+@2016-Jan-26 20:45:50 INFO  serverLogger:219 - WAITING FOR MORE PLAYERS
+@2016-Jan-26 21:31:13 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-26 21:31:13 INFO  serverLogger:69 - Binding to port 3001
+@2016-Jan-26 21:31:14 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-26 21:31:14 INFO  serverLogger:126 - Server started: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=3001] 9
+@2016-Jan-26 21:31:27 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=52809,localport=3001]
+@2016-Jan-26 21:31:27 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-26 21:31:27 INFO  serverLogger:98 - Server Thread Running52809
+@2016-Jan-26 21:31:28 INFO  serverLogger:197 - join chu 127.0.0.1
+@2016-Jan-26 21:31:28 INFO  serverLogger:202 - Player 52809 broadcasted: join chu 127.0.0.1
+@2016-Jan-26 21:31:28 INFO  serverLogger:203 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-26 21:31:28 INFO  serverLogger:219 - WAITING FOR MORE PLAYERS
+@2016-Jan-26 21:31:36 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=52810,localport=3001]
+@2016-Jan-26 21:31:36 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-26 21:31:36 INFO  serverLogger:98 - Server Thread Running52810
+@2016-Jan-26 21:31:36 INFO  serverLogger:197 - join tope 127.0.0.1
+@2016-Jan-26 21:31:36 INFO  serverLogger:202 - Player 52810 broadcasted: join tope 127.0.0.1
+@2016-Jan-26 21:31:36 INFO  serverLogger:203 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-26 21:31:36 INFO  serverLogger:216 - List of players In the Game you can attack: [ chu tope  ]
+@2016-Jan-26 21:31:36 INFO  serverLogger:219 - GAME READY
+@2016-Jan-26 21:31:44 INFO  serverLogger:224 - select chu tope thrust 2 swing 2
+@2016-Jan-26 21:31:44 INFO  serverLogger:290 - WRONG ATTACK OR DEFENCE OR SPEED DETAILS
+@2016-Jan-26 21:32:22 INFO  serverLogger:224 - select chu tope thrust 2 duck 2
+@2016-Jan-26 21:32:22 INFO  serverLogger:275 - WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-26 21:32:22 INFO  serverLogger:283 - 
+@2016-Jan-26 21:32:32 INFO  serverLogger:224 - select tope chu swing 1 dodge 3
+@2016-Jan-26 21:32:32 INFO  serverLogger:275 - 
+@2016-Jan-26 21:32:32 INFO  serverLogger:283 - RESOLVE ROLL
+@2016-Jan-26 21:32:35 INFO  serverLogger:310 - Player 52809 broadcasted: roll chu 3
+@2016-Jan-26 21:32:35 INFO  serverLogger:420 - Wait to receive rolls and process it from other players
+@2016-Jan-26 21:32:38 INFO  serverLogger:310 - Player 52810 broadcasted: roll tope 4
+@2016-Jan-26 21:32:38 INFO  serverLogger:394 - OUTCOME [chu got 1 hit, tope got 1 hit]
+
+@2016-Jan-26 21:32:38 INFO  serverLogger:404 - There is still more rounds to play 2
+@2016-Jan-26 21:34:38 INFO  serverLogger:224 - select chu tope thrust 1 finch 3
+@2016-Jan-26 21:34:38 INFO  serverLogger:283 - 
+@2016-Jan-26 21:35:50 INFO  serverLogger:224 - select tope chu thrust 1 duck 3
+@2016-Jan-26 21:35:50 INFO  serverLogger:275 - WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-26 21:35:50 INFO  serverLogger:283 - 
+@2016-Jan-26 21:37:06 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-26 21:37:06 INFO  serverLogger:69 - Binding to port 3001
+@2016-Jan-26 21:37:07 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-26 21:37:07 INFO  serverLogger:126 - Server started: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=3001] 9
+@2016-Jan-26 21:37:18 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=52820,localport=3001]
+@2016-Jan-26 21:37:18 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-26 21:37:18 INFO  serverLogger:98 - Server Thread Running52820
+@2016-Jan-26 21:37:18 INFO  serverLogger:197 - join chu 127.0.0.1
+@2016-Jan-26 21:37:18 INFO  serverLogger:202 - Player 52820 broadcasted: join chu 127.0.0.1
+@2016-Jan-26 21:37:18 INFO  serverLogger:203 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-26 21:37:18 INFO  serverLogger:219 - WAITING FOR MORE PLAYERS
+@2016-Jan-26 21:37:27 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=52821,localport=3001]
+@2016-Jan-26 21:37:27 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-26 21:37:27 INFO  serverLogger:98 - Server Thread Running52821
+@2016-Jan-26 21:37:27 INFO  serverLogger:197 - join rae 127.0.0.1
+@2016-Jan-26 21:37:27 INFO  serverLogger:202 - Player 52821 broadcasted: join rae 127.0.0.1
+@2016-Jan-26 21:37:27 INFO  serverLogger:203 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-26 21:37:27 INFO  serverLogger:216 - List of players In the Game you can attack: [ chu rae  ]
+@2016-Jan-26 21:37:27 INFO  serverLogger:219 - GAME READY
+@2016-Jan-26 21:38:04 INFO  serverLogger:224 - select chu rae thrust 2 duck 2
+@2016-Jan-26 21:38:04 INFO  serverLogger:275 - WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-26 21:38:04 INFO  serverLogger:283 - 
+@2016-Jan-26 21:38:17 INFO  serverLogger:224 - select rae chu swing 1 duck 3
+@2016-Jan-26 21:38:17 INFO  serverLogger:275 - 
+@2016-Jan-26 21:38:17 INFO  serverLogger:283 - RESOLVE ROLL
+@2016-Jan-26 21:38:19 INFO  serverLogger:310 - Player 52820 broadcasted: roll chu 2
+@2016-Jan-26 21:38:19 INFO  serverLogger:420 - Wait to receive rolls and process it from other players
+@2016-Jan-26 21:38:22 INFO  serverLogger:310 - Player 52821 broadcasted: roll rae 1
+@2016-Jan-26 21:38:22 INFO  serverLogger:394 - OUTCOME [chu got 1 hit, rae got 1 hit]
+
+@2016-Jan-26 21:38:22 INFO  serverLogger:404 - There is still more rounds to play 2
+@2016-Jan-26 21:38:37 INFO  serverLogger:224 - select chu wei thrust 3 duck 1
+@2016-Jan-26 21:38:37 INFO  serverLogger:297 - invalid attack name
+@2016-Jan-26 21:39:54 INFO  serverLogger:224 - select chu rae sick 2 duck 2
+@2016-Jan-26 21:39:54 INFO  serverLogger:283 - 
+@2016-Jan-26 21:40:13 INFO  serverLogger:303 - Your attack speed plus defense speed must be greater than 4 try again!
+@2016-Jan-26 21:42:15 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-26 21:42:15 INFO  serverLogger:69 - Binding to port 3001
+@2016-Jan-26 21:42:15 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-26 21:42:15 INFO  serverLogger:126 - Server started: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=3001] 9
+@2016-Jan-26 21:42:32 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=52856,localport=3001]
+@2016-Jan-26 21:42:32 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-26 21:42:32 INFO  serverLogger:98 - Server Thread Running52856
+@2016-Jan-26 21:42:32 INFO  serverLogger:197 - join e 127.0.0.1
+@2016-Jan-26 21:42:32 INFO  serverLogger:202 - Player 52856 broadcasted: join e 127.0.0.1
+@2016-Jan-26 21:42:32 INFO  serverLogger:203 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-26 21:42:32 INFO  serverLogger:219 - WAITING FOR MORE PLAYERS
+@2016-Jan-26 21:42:40 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=52857,localport=3001]
+@2016-Jan-26 21:42:40 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-26 21:42:40 INFO  serverLogger:98 - Server Thread Running52857
+@2016-Jan-26 21:42:40 INFO  serverLogger:197 - join r 127.0.0.1
+@2016-Jan-26 21:42:40 INFO  serverLogger:202 - Player 52857 broadcasted: join r 127.0.0.1
+@2016-Jan-26 21:42:40 INFO  serverLogger:203 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-26 21:42:40 INFO  serverLogger:216 - List of players In the Game you can attack: [ e r  ]
+@2016-Jan-26 21:42:40 INFO  serverLogger:219 - GAME READY
+@2016-Jan-26 21:43:00 INFO  serverLogger:224 - select e r thrust 2 duck 2
+@2016-Jan-26 21:43:00 INFO  serverLogger:278 - WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-26 21:43:00 INFO  serverLogger:286 - 
+@2016-Jan-26 21:46:11 INFO  serverLogger:224 - select r e thrust 1 duck 3
+@2016-Jan-26 21:46:11 INFO  serverLogger:278 - 
+@2016-Jan-26 21:46:12 INFO  serverLogger:286 - RESOLVE ROLL
+@2016-Jan-26 21:46:41 INFO  serverLogger:313 - Player 52856 broadcasted: roll e 3
+@2016-Jan-26 21:46:41 INFO  serverLogger:423 - Wait to receive rolls and process it from other players
+@2016-Jan-26 21:46:43 INFO  serverLogger:313 - Player 52857 broadcasted: roll r 3
+@2016-Jan-26 21:46:43 INFO  serverLogger:397 - OUTCOME [e got 2 hit, r got 2 hit]
+
+@2016-Jan-26 21:46:43 INFO  serverLogger:407 - There is still more rounds to play 2
+@2016-Jan-26 21:47:06 INFO  serverLogger:224 - select e r chuvk 2 duck 2
+@2016-Jan-26 21:47:06 INFO  serverLogger:286 - 
+@2016-Jan-26 21:53:47 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-26 21:53:47 INFO  serverLogger:69 - Binding to port 3001
+@2016-Jan-26 21:53:49 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-26 21:53:49 INFO  serverLogger:126 - Server started: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=3001] 9
+@2016-Jan-26 21:53:58 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=52873,localport=3001]
+@2016-Jan-26 21:53:58 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-26 21:53:58 INFO  serverLogger:98 - Server Thread Running52873
+@2016-Jan-26 21:53:58 INFO  serverLogger:197 - join re 127.0.0.1
+@2016-Jan-26 21:53:58 INFO  serverLogger:202 - Player 52873 broadcasted: join re 127.0.0.1
+@2016-Jan-26 21:53:58 INFO  serverLogger:203 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-26 21:53:58 INFO  serverLogger:219 - WAITING FOR MORE PLAYERS
+@2016-Jan-26 21:54:05 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=52878,localport=3001]
+@2016-Jan-26 21:54:05 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-26 21:54:05 INFO  serverLogger:98 - Server Thread Running52878
+@2016-Jan-26 21:54:05 INFO  serverLogger:197 - join we 127.0.0.1
+@2016-Jan-26 21:54:05 INFO  serverLogger:202 - Player 52878 broadcasted: join we 127.0.0.1
+@2016-Jan-26 21:54:05 INFO  serverLogger:203 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-26 21:54:05 INFO  serverLogger:216 - List of players In the Game you can attack: [ re we  ]
+@2016-Jan-26 21:54:05 INFO  serverLogger:219 - GAME READY
+@2016-Jan-26 21:54:16 INFO  serverLogger:224 - select we re thrust 2 duck 2
+@2016-Jan-26 21:54:16 INFO  serverLogger:280 - WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-26 21:54:16 INFO  serverLogger:288 - 
+@2016-Jan-26 21:56:16 INFO  serverLogger:224 - select re we swing 2 duck 2
+@2016-Jan-26 21:56:16 INFO  serverLogger:280 - 
+@2016-Jan-26 21:56:16 INFO  serverLogger:288 - RESOLVE ROLL
+@2016-Jan-26 21:56:17 INFO  serverLogger:315 - Player 52878 broadcasted: roll we 3
+@2016-Jan-26 21:56:17 INFO  serverLogger:425 - Wait to receive rolls and process it from other players
+@2016-Jan-26 21:56:21 INFO  serverLogger:315 - Player 52873 broadcasted: roll re 3
+@2016-Jan-26 21:56:21 INFO  serverLogger:399 - OUTCOME [re got 1 hit, we got 0 hit]
+
+@2016-Jan-26 21:56:21 INFO  serverLogger:409 - There is still more rounds to play 2
+@2016-Jan-26 21:56:39 INFO  serverLogger:224 - select re we thwes 2 ducks 2
+@2016-Jan-26 21:56:39 INFO  serverLogger:295 - WRONG ATTACK OR DEFENCE OR SPEED DETAILS
+@2016-Jan-26 21:57:20 INFO  serverLogger:224 - select we ew fishhhhh 2 duck 2
+@2016-Jan-26 21:57:20 INFO  serverLogger:302 - invalid attack name
+@2016-Jan-26 21:57:43 INFO  serverLogger:224 - select we re ducckkkssss 2 dodge 2
+@2016-Jan-26 21:57:43 INFO  serverLogger:295 - WRONG ATTACK OR DEFENCE OR SPEED DETAILS
+@2016-Jan-27 03:18:18 INFO  serverLogger:224 - select we re crst 2 duck 2
+@2016-Jan-27 03:18:18 INFO  serverLogger:295 - WRONG ATTACK OR DEFENCE OR SPEED DETAILS
+@2016-Jan-27 03:18:25 INFO  serverLogger:224 - select we re thrust 2 duck 2
+@2016-Jan-27 03:18:25 INFO  serverLogger:280 - WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-27 03:18:25 INFO  serverLogger:288 - 
+@2016-Jan-27 10:55:14 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-27 10:55:14 INFO  serverLogger:69 - Binding to port 3001
+@2016-Jan-27 10:55:22 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-27 10:55:22 INFO  serverLogger:126 - Server started: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=3001] 9
+@2016-Jan-27 10:55:36 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=54219,localport=3001]
+@2016-Jan-27 10:55:36 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-27 10:55:36 INFO  serverLogger:98 - Server Thread Running54219
+@2016-Jan-27 10:55:36 INFO  serverLogger:197 - join Guelor 127.0.0.1
+@2016-Jan-27 10:55:36 INFO  serverLogger:202 - Player 54219 broadcasted: join Guelor 127.0.0.1
+@2016-Jan-27 10:55:36 INFO  serverLogger:203 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-27 10:55:36 INFO  serverLogger:219 - WAITING FOR MORE PLAYERS
+@2016-Jan-27 10:55:54 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=54220,localport=3001]
+@2016-Jan-27 10:55:54 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-27 10:55:54 INFO  serverLogger:98 - Server Thread Running54220
+@2016-Jan-27 10:55:54 INFO  serverLogger:197 - join tope 127.0.0.1
+@2016-Jan-27 10:55:54 INFO  serverLogger:202 - Player 54220 broadcasted: join tope 127.0.0.1
+@2016-Jan-27 10:55:54 INFO  serverLogger:203 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-27 10:55:54 INFO  serverLogger:216 - List of players In the Game you can attack: [ Guelor tope  ]
+@2016-Jan-27 10:55:54 INFO  serverLogger:219 - GAME READY
+@2016-Jan-27 10:56:13 INFO  serverLogger:224 - select Guelor remy thrust 2 duck 2
+@2016-Jan-27 10:56:13 INFO  serverLogger:302 - invalid attack name
+@2016-Jan-27 10:56:30 INFO  serverLogger:224 - select Guelor tope thrust 2 duck 2
+@2016-Jan-27 10:56:30 INFO  serverLogger:280 - WAITING FOR OTHER PLAYERS SELECT MESSAGES
+@2016-Jan-27 10:56:30 INFO  serverLogger:288 - 
+@2016-Jan-27 10:56:48 INFO  serverLogger:224 - select tope guelor thrust 1 dodge 3
+@2016-Jan-27 10:56:48 INFO  serverLogger:302 - invalid attack name
+@2016-Jan-27 10:57:23 INFO  serverLogger:224 - select tope Guelor swing 1 duck 3
+@2016-Jan-27 10:57:23 INFO  serverLogger:280 - 
+@2016-Jan-27 10:57:23 INFO  serverLogger:288 - RESOLVE ROLL
+@2016-Jan-27 10:57:27 INFO  serverLogger:315 - Player 54220 broadcasted: roll tope 3
+@2016-Jan-27 10:57:27 INFO  serverLogger:425 - Wait to receive rolls and process it from other players
+@2016-Jan-27 10:57:36 INFO  serverLogger:315 - Player 54219 broadcasted: roll Guelor 4
+@2016-Jan-27 10:57:36 INFO  serverLogger:399 - OUTCOME [tope got 2 hit, Guelor got 1 hit]
+
+@2016-Jan-27 10:57:36 INFO  serverLogger:409 - There is still more rounds to play 2
+@2016-Jan-27 16:21:17 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-27 16:21:17 INFO  serverLogger:69 - Binding to port 3001
+@2016-Jan-27 16:21:17 ERROR serverLogger:86 - Address already in use
+@2016-Jan-27 16:21:27 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-27 16:21:27 INFO  serverLogger:69 - Binding to port 3001
+@2016-Jan-27 16:21:35 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-27 16:21:35 INFO  serverLogger:126 - Server started: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=3001] 9
+@2016-Jan-27 16:21:38 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=54721,localport=3001]
+@2016-Jan-27 16:21:38 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-27 16:21:38 INFO  serverLogger:98 - Server Thread Running54721
+@2016-Jan-27 16:21:38 INFO  serverLogger:197 - join mir 127.0.0.1
+@2016-Jan-27 16:21:38 INFO  serverLogger:202 - Player 54721 broadcasted: join mir 127.0.0.1
+@2016-Jan-27 16:21:38 INFO  serverLogger:203 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-27 16:21:38 ERROR serverLogger:58 - Broken pipe
+@2016-Jan-27 16:21:38 INFO  serverLogger:219 - WAITING FOR MORE PLAYERS
+@2016-Jan-27 16:21:49 INFO  serverLogger:66 - Binding to port 3001, please wait  ...
+@2016-Jan-27 16:21:49 INFO  serverLogger:69 - Binding to port 3001
+@2016-Jan-27 16:21:49 ERROR serverLogger:86 - Address already in use
+@2016-Jan-27 16:21:52 INFO  serverLogger:155 - Client acceptedSocket[addr=/127.0.0.1,port=54724,localport=3001]
+@2016-Jan-27 16:21:52 INFO  serverLogger:134 - Waiting for other players to join the game ...
+@2016-Jan-27 16:21:52 INFO  serverLogger:98 - Server Thread Running54724
+@2016-Jan-27 16:21:52 INFO  serverLogger:197 - join mir 127.0.0.1
+@2016-Jan-27 16:21:52 INFO  serverLogger:202 - Player 54724 broadcasted: join mir 127.0.0.1
+@2016-Jan-27 16:21:52 INFO  serverLogger:203 - Server sent: startGame 2 Players 2 rounds
+@2016-Jan-27 16:21:52 INFO  serverLogger:216 - List of players In the Game you can attack: [ mir mir  ]
+@2016-Jan-27 16:21:52 ERROR serverLogger:58 - Broken pipe
+@2016-Jan-27 16:21:52 INFO  serverLogger:219 - WAITING FOR MORE PLAYERS
+@
